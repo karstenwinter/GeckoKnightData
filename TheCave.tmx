@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<map version="1.2" orientation="orthogonal" renderorder="right-down" width="512" height="512" tilewidth="120" tileheight="120" nextobjectid="70">
+<map version="1.2" orientation="orthogonal" renderorder="right-down" width="512" height="512" tilewidth="120" tileheight="120" nextobjectid="73">
   <properties>
     <property name="sw4" value="9" />
     <property name="sw5" value="10" />
@@ -2647,5 +2647,7 @@
     <object name="EasternCaveSection3" type="" id="67" x="39720" y="31560" width="5040" height="2520" />
     <object name="EasternCaveSection2" type="" id="68" x="39720" y="36600" width="5040" height="2520" />
     <object name="EasternCaveSection4" type="" id="69" x="39720" y="39120" width="5040" height="2520" />
+    <object name="black" type="" id="70" x="32760" y="28320" width="720" height="720" />
+    <object name="black" type="" id="72" x="27480" y="26520" width="1800" height="2040" />
   </objectgroup>
 </map>
