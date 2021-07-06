@@ -1051,7 +1051,7 @@
     <object name="UpperCave.NeedleEntrance2" id="26" x="34680" y="26520" width="5040" height="2520" />
     <object name="UpperCave.UpperClock" id="27" x="29640" y="29040" width="5040" height="2520" />
     <object name="UpperCave.LowerClock" id="28" x="29640" y="31560" width="5040" height="2520" />
-    <object name="UpperCave.NeedleEntrance" id="29" x="34680" y="29040" width="5040" height="2520" />
+    <object name="UpperCave.NBEntrance" type="" id="29" x="34680" y="29040" width="5040" height="2520" />
     <object name="UpperCave.NeedleRoom.WoodBox" type="" id="30" x="39720" y="29040" width="5040" height="2520" />
     <object name="UpperCave.4" id="31" x="34600" y="315000" width="5000" height="2500" />
     <object name="UpperCave.2" id="32" x="34680" y="31560" width="5040" height="2520" />
