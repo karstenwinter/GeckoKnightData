@@ -1,2 +1,2 @@
-cd C:\Projekte\GeckoKnightData
+cd C:\Projects\GeckoKnightData
 git pull
