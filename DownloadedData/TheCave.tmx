@@ -1313,9 +1313,9 @@
     <object name="text.twisted and poisoned" id="257" x="36000" y="31320" width="120" height="120" />
     <object name="text.and fragile walls" id="258" x="36840" y="32280" width="120" height="120" />
     <object name="text.a smell of rotten wood" id="260" x="40440" y="29400" width="120" height="120" />
-    <object name="text.The egg cracked" id="262" x="30000" y="28320" width="120" height="120" />
-    <object name="text.and a gecko hatched" id="263" x="30240" y="28680" width="120" height="120" />
-    <object name="text.but he was alone" id="265" x="33360" y="27960" width="120" height="120" />
+    <object name="text.EggCracked" type="" id="262" x="30000" y="28320" width="120" height="120" />
+    <object name="text.GeckoHatched" type="" id="263" x="30240" y="28680" width="120" height="120" />
+    <object name="text.WasAlone" type="" id="265" x="33360" y="27960" width="120" height="120" />
     <object name="text.sensing a strange smell" id="268" x="35280" y="28320" width="120" height="120" />
     <object name="text.and something else" id="269" x="37680" y="28320" width="120" height="120" />
     <object name="text.and painful obstacles" id="270" x="38040" y="31080" width="120" height="120" />
@@ -1327,8 +1327,8 @@
     <object name="text.why are they angry?" id="279" x="32760" y="36000" width="120" height="120" />
     <object name="text.something calling" id="280" x="31320" y="35640" width="120" height="120" />
     <object name="text.fresh air" id="282" x="33480" y="24840" width="120" height="120" />
-    <object name="text.(slash down to pogo on spikes)" id="283" x="42720" y="31320" width="120" height="120" />
-    <object name="text.he looked around" id="286" x="31560" y="27960" width="120" height="120" />
+    <object name="trxt.JumpAndPogo" type="" id="283" x="42720" y="31320" width="120" height="120" />
+    <object name="text.LookedAround" type="" id="286" x="31560" y="27960" width="120" height="120" />
     <object name="text.hiding treasures" id="287" x="38040" y="31800" width="120" height="120" />
     <object name="black" id="289" x="13080" y="29280" width="1200" height="1200" />
     <object name="black" id="290" x="16680" y="29160" width="1440" height="1200" />
