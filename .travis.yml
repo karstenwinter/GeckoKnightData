@@ -7,4 +7,4 @@ install:
 
 script:
   - xbuild ./travis-build/travis-build.sln
-  - nunit-console ./travis-build/bin/Debug/travis-build.exe
+  - mono ./travis-build/bin/Debug/travis-build.exe
