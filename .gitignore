@@ -1,1 +1,3 @@
 *.meta
+travis-build/obj
+travis-build/.vs
