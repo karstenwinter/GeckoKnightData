@@ -1,25 +1,10 @@
-language: objective-c
-osx_image: xcode9.2
-rvm:
-- 2.2
-
-cache:
-  directories:
-    - $UNITY_DOWNLOAD_CACHE
-    
-before_install:
-- chmod a+x ./travis-build/*.sh
+language: csharp
+solution: ./travis-build/travis-build.sln
 
 install:
-- cat /etc/hosts
-- ./travis-build/install-unity.sh
+  - sudo apt-get install nunit-console
+  - nuget restore ./travis-build/travis-build.sln
 
 script:
-- echo ./travis-build/build.sh
-- echo ./travis-build/run-tests.sh
-
-after_success:
-- echo ./travis-build/export-unity-package.sh
-
-before_deploy:
-- ls -a release/*.zip
+  - xbuild ./travis-build/travis-build.sln
+  - nunit-console ./travis-build/bin/Debug/travis-build.exe
