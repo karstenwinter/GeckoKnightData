@@ -11,10 +11,35 @@ namespace travis_build
     {
         static void Main(string[] args)
         {
-            var sb = new StringBuilder("Dir\tSubDir\tFile\tLength\t(this file is generated)\n");
+            var root = "../../../";
+            list(root);
+
+            root = "../../";
+            list(root);
+
+            root = "/../";
+            list(root);
+            // TODO remove
+            // Console.ReadKey();
+        }
+
+        static void list(string root)
+        {
+            try
+            {
+                list2(root);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
+        }
+
+        static void list2(string root)
+            {
+                var sb = new StringBuilder("Dir\tSubDir\tFile\tLength\t(this file is generated)\t" + root + "\n");
             // list("../../../", "", Console.WriteLine);
 
-            var root = "../../../";
             foreach (var dir in Directory.GetDirectories(root))
             {
                 var dirI = new DirectoryInfo(dir);
@@ -26,7 +51,7 @@ namespace travis_build
                     foreach (var file in Directory.GetFiles(subDir))
                     {
                         var f = new FileInfo(file);
-                        if (f.Name.Contains("png"))
+                        //if (f.Name.Contains("png"))
                             sb.AppendLine(dirI.Name + "\t" + subDirI.Name + "\t" + f.Name + "\t" + f.Length);
                     }
                 }
@@ -34,14 +59,12 @@ namespace travis_build
                 {
                     var f2 = new FileInfo(file2);
                     if (f2.Name.Contains("png"))
-                        sb.AppendLine(dirI.Name + "\t" + "-"  + "\t" + f2.Name + "\t" + f2.Length);
+                        sb.AppendLine(dirI.Name + "\t" + "-" + "\t" + f2.Name + "\t" + f2.Length);
                 }
             }
 
             Console.WriteLine(sb);
             File.WriteAllText("output.tsv", sb.ToString());
-            // TODO remove
-            //Console.ReadKey();
         }
     }
 }
