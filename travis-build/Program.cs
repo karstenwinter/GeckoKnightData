@@ -1,20 +1,36 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace travis_build
 {
     class Program
     {
+        static string header = "Dir\tSubDir\tFile\tLength\t(this file is generated)\n";
+        static StringBuilder sb = new StringBuilder(header);
+            
         static void Main(string[] args)
         {
-            var sb = new StringBuilder("Dir\tSubDir\tFile\tLength\t(this file is generated)\n");
             // list("../../../", "", Console.WriteLine);
 
-            var root = "../../../";
+            list("../../../");
+            File.WriteAllText("output.tsv", sb.ToString());
+            
+            sb = new StringBuilder(header)
+            list("../../../");
+            File.WriteAllText("output3.tsv", sb.ToString());
+            
+            sb = new StringBuilder(header)
+            list("../../");
+            File.WriteAllText("output2.tsv", sb.ToString());
+            // TODO remove
+            //Console.ReadKey();
+        }
+        
+        static void list(string root) 
+        {
             foreach (var dir in Directory.GetDirectories(root))
             {
                 var dirI = new DirectoryInfo(dir);
@@ -38,10 +54,7 @@ namespace travis_build
                 }
             }
 
-            Console.WriteLine(sb);
-            File.WriteAllText("output.tsv", sb.ToString());
-            // TODO remove
-            //Console.ReadKey();
+            Console.WriteLine(root + " => \n\n" + sb);
         }
     }
 }
