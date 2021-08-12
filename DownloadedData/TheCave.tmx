@@ -1275,7 +1275,7 @@
     <object name="Depths.238" id="238" x="9480" y="54240" width="5040" height="2520" />
     <object name="Depths.239" id="239" x="4440" y="54240" width="5040" height="2520" />
     <object name="Depths.241" id="241" x="4440" y="56760" width="5040" height="2520" />
-    <object name="MossyAlcoves.105.Mantis" id="105" x="14520" y="41640" width="5040" height="2520" />
+    <object name="MossyAlcoves.Lizard.Mantis" id="105" x="14520" y="41640" width="5040" height="2520" />
     <object name="MossyAlcoves.MantisLords.Mantis" id="106" x="14520" y="44160" width="5040" height="2520" />
     <object name="MossyAlcoves.107.Mantis" id="107" x="14520" y="39120" width="5040" height="2520" />
     <object name="MossyAlcoves.137.Mantis" id="137" x="14520" y="46680" width="5040" height="2520" />
