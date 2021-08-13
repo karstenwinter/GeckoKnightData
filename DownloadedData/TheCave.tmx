@@ -1289,7 +1289,7 @@
     <object name="MossyAlcoves.205" id="205" x="4440" y="34080" width="5040" height="2520" />
     <object name="MossyAlcoves.206" id="206" x="4440" y="36600" width="5040" height="2520" />
     <object name="MossyAlcoves.207" id="207" x="9480" y="36600" width="5040" height="2520" />
-    <object name="MossyAlcoves.SpiderRoom.208" id="208" x="9480" y="39120" width="5040" height="2520" />
+    <object name="MossyAlcoves.SpiderRoom" id="208" x="9480" y="39120" width="5040" height="2520" />
     <object name="MossyAlcoves.210.Mantis" id="210" x="9480" y="41640" width="5040" height="2520" />
     <object name="MossyAlcoves.211.Mantis" id="211" x="4440" y="39120" width="5040" height="2520" />
     <object name="MossyAlcoves.212.Mantis" id="212" x="4440" y="41640" width="5040" height="2520" />
