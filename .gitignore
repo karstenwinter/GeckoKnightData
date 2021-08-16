@@ -1,3 +1,4 @@
 *.meta
+*.asset
 travis-build/obj
 travis-build/.vs
