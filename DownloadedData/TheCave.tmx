@@ -1103,7 +1103,7 @@
   <object id="109" name="StonyCave.109" x="49800" y="41640" width="5040" height="2520"/>
   <object id="110" name="StonyCave.110" x="49800" y="44160" width="5040" height="2520"/>
   <object id="111" name="StonyCave.111" x="49800" y="39120" width="5040" height="2520"/>
-  <object id="112" name="RockyCave.SpiderRoom" x="49800" y="34080" width="5040" height="2520"/>
+  <object id="112" name="Rocky.SpiderRoom" x="49800" y="34080" width="5040" height="2520"/>
   <object id="113" name="StonyCave.113" x="49800" y="31560" width="5040" height="2520"/>
   <object id="117" name="StonyCave.117" x="54840" y="36600" width="5040" height="2520"/>
   <object id="118" name="StonyCave.118" x="54840" y="39120" width="5040" height="2520"/>
