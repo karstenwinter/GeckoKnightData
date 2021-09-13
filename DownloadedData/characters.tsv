@@ -1,0 +1,103 @@
+name 	state	frames	frame size	sheet url	data	preview
+Gecko	idle	3	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/Gecko.png		
+Gecko	run	8				
+Gecko	jump	8				
+Gecko	land	3				
+Gecko	climb to stand	6				
+Gecko	hit	5				
+Gecko	hit up	5				
+Gecko	hit down	5				
+Gecko	turn	5				
+Gecko	climb to jump	3				
+Gecko	dash	4				
+Gecko	air	3				
+Gecko	climb up	4				
+Gecko	climb down	4				
+Gecko	climb	3				
+Gecko	stop	3				
+Hollow	idle	3	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/Hollow.png		
+Hollow	run	8				
+Hollow	jump	8				
+Hollow	land	3				
+Hollow	climb to stand	6				
+Hollow	hit	5				
+Hollow	hit up	5				
+Hollow	hit down	5				
+Hollow	turn	5				
+Hollow	climb to jump	3				
+Hollow	dash	4				
+Hollow	air	3				
+Hollow	climb up	4				
+Hollow	climb down	4				
+Hollow	climb	3				
+Hollow	stop	3				
+Bug	idle	4	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/Bug.png		
+Bug	run	4				
+Bug	dead	1				
+Bug	particle	1				
+Bee	idle	3	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/Bee.png		
+Bee	attack	6				
+Bee	dead	1				
+Bee	particle	1				
+HollowBug	idle	4	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/HollowBug.png		
+HollowBug	run	4				
+HollowBug	dead	1				
+HollowBug	particle	1				
+HollowBee	idle	3	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/HollowBee.png		
+HollowBee	attack	3				
+HollowBee	dead	1				
+HollowBee	particle	1				
+FrogSensei	idle	3	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/FrogSensei.png		
+FrogSensei	action	1				
+TvDog	idle	3	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/TvDog.png		
+TvDog	action	1				
+MadSpider	idle	3	960	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/MadSpider.png		
+MadSpider	body	1				
+MadSpider	leg	1				
+MadSpider	dead	1				
+Mantis	idle	3	480	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/Mantis.png		
+Mantis	sprint	3				
+Mantis	air	8				
+Mantis	land	3				
+Mantis	dash	4				
+Mantis	air	3				
+Mantis	climb attack	4				
+Mantis	climb	3				
+Mantis	projectile	3				
+Mantis	dead	5				
+LizardTwin	idle	3	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/LizardTwin.png		
+LizardTwin	run	8				
+LizardTwin	jump	8				
+LizardTwin	land	3				
+LizardTwin	climb to stand	6				
+LizardTwin	hit	5				
+LizardTwin	hit up	5				
+LizardTwin	hit down	5				
+LizardTwin	turn	5				
+LizardTwin	climb to jump	3				
+LizardTwin	dash	4				
+LizardTwin	air	3				
+LizardTwin	climb up	4				
+LizardTwin	climb down	4				
+LizardTwin	climb	3				
+LizardTwin	stop	3				
+Lizard	idle	4	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/Lizard.png		
+Lizard	run	4				
+Lizard	dead	1				
+Lizard	particle	1				
+Mosaic	idle	4	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/Mosaic.png		
+Mosaic	run	4				
+Mosaic	dead	1				
+Mosaic	particle	1				
+TwistedSnake	idle	3	960	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/TwistedSnake.png		
+TwistedSnake	head	1				
+TwistedSnake	body	1				
+TwistedSnake	dead	1				
+TwistedSnake	up	1				
+TwistedSnake	shoot	1				
+TwistedSnake	projectile	3				
+CrowBuddy	idle	1	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/CrowBuddy.png		
+TurtleGuy	idle	1	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/TurtleGuy.png		
+LizardChild	idle	1	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/LizardChild.png		
+MoleGuy	idle	1	260	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/MoleGuy.png		
+SnakeGuy	idle	1	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/SnakeGuy.png		

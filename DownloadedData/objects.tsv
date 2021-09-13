@@ -1,0 +1,141 @@
+Index	Prefab	Preview	Comment (x = check)
+201	Block		
+202	Destroyable 1x1		
+203	Empty 1		
+204	Empty 2		
+205	Empty 3		
+206	Deco small left		x
+207	Deco small right		x
+208	Deco small top		x
+209	Deco small bottom		x
+210	Deco small variant		x
+211	Deco big left		x
+212	Deco big right		x
+213	Deco big top		x
+214	Deco big bottom		x
+215	Deco big Variant		x
+216	Checkpoint		x
+217	Destroyable block		x
+218	Upgrade 1		x
+219	Upgrade 1		Upgrade 2
+220	Upgrade 1		Upgrade 3
+221	Shells bottom		Shells left
+222	Shells bottom		Shells right
+223	Shells bottom		Shells top
+224	Shells bottom		x
+225	Shells bottom		Shells variant (chest?)
+226	Trap right		x
+227	Trap left		x
+228	Trap top		x
+229	Trap bottom		x
+230	Trap center		x
+231	Enemy 1		x
+232	Enemy 2		x
+233	Enemy 3		
+234	Enemy 4		
+235	Enemy 5		
+236	Enemy 6		
+237	Enemy 7		
+238	Enemy 8		
+239	Enemy 9		
+240	Enemy 10		
+241	Edge bottom right		x
+242	Edge bottom left		x
+243	Boss 1		
+244	Boss 2		
+245	Boss 3		
+246	Edge top right		x
+247	Edge top left		x
+248	Boss 4		
+249	Boss 5		
+250	Camp		x
+251	Character_1		x
+252	Character_2		x
+253	Character_3		x
+254	Character_4		x
+255	Character_5		x
+256	Character_6		x
+257	Character_7		x
+258	Character_8		x
+259	ignore		x
+260	Edge big top right		x
+261	Edge big top left		x
+262	ignore		x
+263	Nettles		Destroyable block bottom
+264	Destroyable block		Destroyable block big bottom
+265	Destroyable block		ignore
+266	Edge big top left		3 cols TODO
+267	ignore		3 cols
+268	ignore		3 cols
+269	Item		x
+270	ManaRock		x
+271	Destroyable wall left		destroyable from left
+272	Destroyable wall right		destroyable from right
+273	ignore		3 cols TODO
+274	ignore		3 cols TODO
+275	Edge big top right		3 cols TODO
+276	Edge big bottom left		2 cols TODO
+277	ignore		2 cols TODO
+278	ignore		2 cols TODO
+279	Edge big bottom right		2 cols TODO
+280	Edge big top left		1 col TODO
+281	Edge big bottom left		3 cols TODO
+282	ignore		3 cols TODO
+283	ignore		3 cols TODO
+284	ignore		2 cols TODO
+285	ignore		2 cols TODO
+286	ignore		3 cols TODO
+287	ignore		3 cols TODO
+288	Edge big bottom left		3 cols TODO
+289	Edge big bottom right		2 cols TODO
+290	Edge big bottom top		2 cols TODO
+291	Light 1		x
+292	Light 2		x
+293	Light 3		x
+294	Light 4		x
+295	Light 5		x
+296	Acid upper		x
+297	Acid		x
+298	Trap moving horizontal		x
+299	Trap moving vertical		x
+300	Trap big moving horizontal		x
+301	Trap big moving vertical		x
+302	Water upper		x
+303	Water		x
+304	Trampoline small		x
+305	Trampoline big		x
+306	Deco light left		x
+307	Deco light right		x
+308	Deco light top		x
+309	Deco light bottom		x
+310	Deco light variant		x
+311	Fog before		x
+312	Fog middle		x
+313	Fog behind		x
+314	Fog far behind		x
+315	Fog variant		x
+316	BG left		x
+317	BG right		x
+318	BG top		x
+319	BG bottom		x
+320	BG variant		x
+321	FG left		x
+322	FG right		x
+323	FG top		x
+324	FG bottom		x
+325	FG variant		x
+326	BG far left		x
+327	BG far right		x
+328	BG far top		x
+329	BG far bottom		x
+330	BG far variant		x
+331	FG near left		x
+332	FG near right		x
+333	FG near top		x
+334	FG near bottom		x
+335	FG near variant		x
+336	Unique 1		x
+337	Unique 2		x
+338	Unique 3		x
+339	Unique 4		x
+340	Unique 5		x
