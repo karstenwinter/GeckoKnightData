@@ -1313,9 +1313,9 @@
   <object id="257" name="0text.twisted and poisoned" x="36000" y="31320" width="120" height="120"/>
   <object id="258" name="0text.and fragile walls" x="36840" y="32280" width="120" height="120"/>
   <object id="260" name="0text.a smell of rotten wood" x="40440" y="29400" width="120" height="120"/>
-  <object id="262" name="text.EggCracked" x="30000" y="28320" width="120" height="120"/>
-  <object id="263" name="text.GeckoHatched" x="30240" y="28680" width="120" height="120"/>
-  <object id="265" name="text.WasAlone" x="33360" y="27960" width="120" height="120"/>
+  <object id="262" name="0text.EggCracked" x="30000" y="28320" width="120" height="120"/>
+  <object id="263" name="0text.GeckoHatched" x="30240" y="28680" width="120" height="120"/>
+  <object id="265" name="0text.WasAlone" x="33360" y="27960" width="120" height="120"/>
   <object id="268" name="0text.sensing a strange smell" x="35280" y="28320" width="120" height="120"/>
   <object id="269" name="0text.and something else" x="37680" y="28320" width="120" height="120"/>
   <object id="270" name="0text.and painful obstacles" x="38040" y="31080" width="120" height="120"/>
@@ -1328,7 +1328,7 @@
   <object id="280" name="0text.something calling" x="31320" y="35640" width="120" height="120"/>
   <object id="282" name="0text.fresh air" x="33480" y="24840" width="120" height="120"/>
   <object id="283" name="text.JumpAndPogo" x="42720" y="31320" width="120" height="120"/>
-  <object id="286" name="text.LookedAround" x="31560" y="27960" width="120" height="120"/>
+  <object id="286" name="0text.LookedAround" x="31560" y="27960" width="120" height="120"/>
   <object id="287" name="0text.hiding treasures" x="38040" y="31800" width="120" height="120"/>
   <object id="289" name="black" x="13080" y="29280" width="1200" height="1200"/>
   <object id="290" name="black" x="16680" y="29160" width="1440" height="1200"/>
