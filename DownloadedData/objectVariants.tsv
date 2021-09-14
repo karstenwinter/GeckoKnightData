@@ -1,157 +1,158 @@
 Prefab	Variant	Url	Layer	Tone	Z	Sort	Scale	Preview	Info	Test Lookup	Size (WxH)
-BG bottom	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20bottom/rocky.png	bg	#ffffff	1	-45	1		BG bottom/rocky		2x2
-BG top	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20top/rocky.png	bg	#ffffff	1	-45	1		BG top/rocky		2x2
-BG left	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20left/rocky.png	bg	#ffffff	1	-45	1		BG left/rocky		2x2
-BG right	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20right/rocky.png	bg	#ffffff	1	-45	1		BG right/rocky		2x2
-BG variant	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20variant/rocky.png	bg	#ffffff	1	-45	1		BG variant/rocky		2x2
-BG far bottom	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20bottom/rocky.png	far bg	#808080	3	-150	1		BG far bottom/rocky		2x2
-BG far top	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20top/rocky.png	far bg	#808080	3	-150	1		BG far top/rocky		2x2
-BG far left	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20left/rocky.png	far bg	#808080	3	-150	1		BG far left/rocky		2x2
-BG far right	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20right/rocky.png	far bg	#808080	3	-150	1		BG far right/rocky		2x2
-BG far variant	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20variant/rocky.png	far bg	#808080	3	-150	1		BG far variant/rocky		2x2
-Unique 2	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%202/cave.png	far bg	#79def9	8	-311	3		Unique 2/cave		
-Unique 2	mossy	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%202/mossy.png	far bg	#6d9e6c	8	-311	3		Unique 2/mossy		
-Unique 1	bamboo	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/bamboo.png	far bg	#ffffff	4	-211	1		Unique 1/bamboo		
-Unique 1	cooker	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/cooker.png	far bg	#ffffff	4	-211	1		Unique 1/cooker		
-Unique 1	machine	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/machine.png	far bg	#ffffff	4	-211	2		Unique 1/machine		
-Unique 1	porcini	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/porcini.png	far bg	#ffffff	4	-211	1		Unique 1/porcini		
-Unique 1	fungus	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/fungus.png	far bg	#ffffff	4	-211	1		Unique 1/fungus		
-Unique 1	television	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/television.png	far bg	#ffffff	4	-211	1		Unique 1/television		
-Unique 1	jukebox	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/jukebox.png	far bg	#ffffff	4	-211	2		Unique 1/jukebox		
-Unique 1	typewriter	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/typewriter.png	far bg	#ffffff	4	-211	1		Unique 1/typewriter		
-Unique 1	topper	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/topper.png	far bg	#ffffff	4	-211	1		Unique 1/topper		
-Unique 1	cottage	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/cottage.png	far bg	#ffffff	4	-211	1		Unique 1/cottage		
-Unique 1	mushroom	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/mushroom.png	far bg	#ffffff	4	-211	1		Unique 1/mushroom		
-Unique 1	hardhat	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/hardhat.png	far bg	#ffffff	4	-211	1		Unique 1/hardhat		
-Unique 1	ftree	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/ftree.png	far bg	#ffffff	4	-211	1		Unique 1/ftree		
-BG bottom	log	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20bottom/log.png	bg	#ffffff	1	-45	1		BG bottom/log		
-BG variant	hole-bars	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20variant/hole-bars.png	bg	#ffffff	1	-45	1		BG variant/hole-bars		
-FG top	stalagtites	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/FG%20top/stalagtites.png	fg	#ffffff	-0.5	16	1		FG top/stalagtites		
-Deco small bottom	shards	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20bottom/shards.png	normal	#ffffff	0	1	1		Deco small bottom/shards		
-Deco small bottom	shards2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20bottom/shards2.png	normal	#ffffff	0	1	1		Deco small bottom/shards2		
-Deco big bottom	crystal	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20bottom/crystal.png	normal	#ffffff	-0.05	-1	1		Deco big bottom/crystal		
-Deco big bottom	crystal2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20bottom/crystal2.png	normal	#ffffff	-0.05	-1	1		Deco big bottom/crystal2		
-Deco big bottom	bricks	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20bottom/bricks.png	normal	#ffffff	-0.05	-1	1		Deco big bottom/bricks		
-Deco big bottom	bricks2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20bottom/bricks2.png	normal	#ffffff	-0.05	-1	1		Deco big bottom/bricks2		
-Deco big bottom	bottle	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20bottom/bottle.png	normal	#ffffff	-0.05	-1	1		Deco big bottom/bottle		
-Deco small top	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20top/mantis.png	normal	#ffffff	0	1	1		Deco small top/mantis		
-Deco big bottom	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20bottom/mantis.png	normal	#ffffff	-0.05	-1	1		Deco big bottom/mantis		
-Deco big left	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20left/mantis.png	normal	#ffffff	-0.05	-1	1		Deco big left/mantis		
-Deco big right	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20right/mantis.png	normal	#ffffff	-0.05	-1	1		Deco big right/mantis		
-Deco big top	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20top/mantis.png	normal	#ffffff	-0.05	-1	1		Deco big top/mantis		
-Edge big top left	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20big%20top%20left/mantis.png	bg	#ffffff	-0.15	-15	1		Edge big top left/mantis		
-Edge big top right	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20big%20top%20right/mantis.png	bg	#ffffff	-0.15	-15	1		Edge big top right/mantis		
-Edge top left	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20top%20left/mantis.png	bg	#ffffff	-0.15	-15	1		Edge top left/mantis		
-Edge top right	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20top%20right/mantis.png	bg	#ffffff	-0.15	-15	1		Edge top right/mantis		
-BG far variant	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20variant/mantis.png	bg	#ffffff	3	-150	1		BG far variant/mantis		
-BG far top	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20top/mantis.png	bg	#ffffff	3	-150	1		BG far top/mantis		
-BG far left	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20left/mantis.png	bg	#ffffff	3	-150	1		BG far left/mantis		
-BG far right	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20right/mantis.png	bg	#ffffff	3	-150	1		BG far right/mantis		
-BG far bottom	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20bottom/mantis.png	bg	#ffffff	3	-150	1		BG far bottom/mantis		
-BG bottom	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20bottom/mantis.png	bg	#ffffff	1	-45	1		BG bottom/mantis		
-BG top	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20top/mantis.png	bg	#ffffff	1	-45	1		BG top/mantis		
-BG left	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20left/mantis.png	bg	#ffffff	1	-45	1		BG left/mantis		
-BG right	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20right/mantis.png	bg	#ffffff	1	-45	1		BG right/mantis		
-BG variant	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20variant/mantis.png	bg	#ffffff	1	-45	1		BG variant/mantis		
-Edge big bottom left	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20big%20bottom%20left/mantis.png	bg	#ffffff	-0.15	-15	1		Edge big bottom left/mantis		
-Edge big bottom right	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20big%20bottom%20right/mantis.png	bg	#ffffff	-0.15	-15	1		Edge big bottom right/mantis		
-FG top	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/FG%20top/mantis.png	fg	#ffffff	-0.5	16	1		FG top/mantis		
-FG bottom	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/FG%20bottom/mantis.png	fg	#ffffff	-0.5	16	1		FG bottom/mantis		
-Fog middle	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Fog%20middle/mantis.png	far bg	#ffffff	3	-150	1		Fog middle/mantis		
-Light 1	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Light%201/mantis.png	far bg	#ffffff	3	-150	1		Light 1/mantis		
-Unique 1	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/mantis.png	normal	#ffffff	0	1	1		Unique 1/mantis		
-Destroyable block	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Destroyable%20block/mantis.png	behind	#ffffff	-0.21	-1	1		Destroyable block/mantis		
-Deco small bottom	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20bottom/mantis.png	normal	#ffffff	0	1	1		Deco small bottom/mantis		
-Deco small bottom	mantis2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20bottom/mantis2.png	normal	#ffffff	0	1	1		Deco small bottom/mantis2		
-BG bottom	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20bottom/cave.png	bg	#ffffff	1	-45	1		BG bottom/cave		6x6
-BG far bottom	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20bottom/cave.png	far bg	#ffffff	3	-150	1		BG far bottom/cave		6x6
-BG far left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20left/cave.png	far bg	#ffffff	3	-150	1		BG far left/cave		6x6
-BG far right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20right/cave.png	far bg	#ffffff	3	-150	1		BG far right/cave		6x6
-BG far top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20top/cave.png	far bg	#ffffff	3	-150	1		BG far top/cave		6x6
-BG far variant	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20variant/cave.png	far bg	#ffffff	3	-150	1		BG far variant/cave		6x6
-BG left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20left/cave.png	bg	#ffffff	1	-45	1		BG left/cave		6x6
-BG right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20right/cave.png	bg	#ffffff	1	-45	1		BG right/cave		6x6
-BG top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20top/cave.png	bg	#ffffff	1	-45	1		BG top/cave		6x6
-BG variant	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20variant/cave.png	bg	#ffffff	1	-45	1		BG variant/cave		6x6
-Deco big bottom	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20bottom/cave.png	normal	#ffffff	-0.05	-1	1		Deco big bottom/cave		
-Deco big left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20left/cave.png	normal	#ffffff	0	1	1		Deco big left/cave		
-Deco big right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20right/cave.png	normal	#ffffff	0	1	1		Deco big right/cave		
-Deco big top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20top/cave.png	normal	#ffffff	0	1	1		Deco big top/cave		
-Deco small right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20right/cave.png	normal	#ffffff	0	1	1		Deco small right/cave		
-Deco small top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20top/cave.png	normal	#ffffff	0	1	1		Deco small top/cave		
-Edge big bottom left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20big%20bottom%20left/cave.png	bg	#ffffff	-0.15	-15	1		Edge big bottom left/cave		
-Edge big bottom right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20big%20bottom%20right/cave.png	bg	#ffffff	-0.15	-15	1		Edge big bottom right/cave		
-Edge big top left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20big%20top%20left/cave.png	bg	#ffffff	-0.15	-15	1		Edge big top left/cave		
-Edge big top right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20big%20top%20right/cave.png	bg	#ffffff	-0.15	-15	1		Edge big top right/cave		
-Edge bottom left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20bottom%20left/cave.png	bg	#ffffff	-0.15	-15	1		Edge bottom left/cave		
-Edge bottom right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20bottom%20right/cave.png	bg	#ffffff	-0.15	-15	1		Edge bottom right/cave		
-Edge top left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20top%20left/cave.png	bg	#ffffff	0	1	1		Edge top left/cave		
-Edge top right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20top%20right/cave.png	bg	#ffffff	#ffffff	1	1		Edge top right/cave		
-FG near top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/FG%20near%20top/cave.png	fg	#ffffff	-2	150	1		FG near top/cave		
-FG top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/FG%20top/cave.png	fg	#ffffff	-0.5	16	1		FG top/cave		
-Fog middle	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Fog%20middle/cave.png	far bg	#ffffff	3	-150	1		Fog middle/cave		
-Light 1	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Light%201/cave.png	far bg	#ffffff	3	-150	1		Light 1/cave		
-Deco small top	viking	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20top/viking.png	normal	#ffffff	0	1	1		Deco small top/viking		
-Destroyable block	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Destroyable%20block/cave.png	behind	#ffffff	-0.21	-1	1		Destroyable block/cave		
-BG far bottom	hollow1	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20bottom/hollow1.png	bg	#ffffff	3	-150	1		BG far bottom/hollow1		
-BG far bottom	hollow2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20bottom/hollow2.png	bg	#ffffff	3	-150	1		BG far bottom/hollow2		
-BG bottom	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20bottom/hollow.png	bg	#ffffff	1	-45	1		BG bottom/hollow		
-BG left	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20left/hollow.png	bg	#ffffff	1	-45	1		BG left/hollow		
-BG right	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20right/hollow.png	bg	#ffffff	1	-45	1		BG right/hollow		
-Deco big bottom	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20bottom/hollow.png	bg	#ffffff	-0.15	-15	1		Deco big bottom/hollow		
-Deco big bottom	hollow1	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20bottom/hollow1.png	bg	#ffffff	-0.15	-15	1		Deco big bottom/hollow1		
-Deco big bottom	hollow2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20bottom/hollow2.png	bg	#ffffff	-0.15	-15	1		Deco big bottom/hollow2		
-Deco big bottom	hollow3	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20bottom/hollow3.png	bg	#ffffff	-0.15	-15	1		Deco big bottom/hollow3		
-Deco big bottom	hollow4	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20bottom/hollow4.png	bg	#ffffff	-0.15	-15	1		Deco big bottom/hollow4		
-Deco big top	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20top/hollow.png	normal	#ffffff	0	1	1		Deco big top/hollow		
-Fog middle	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Fog%20middle/hollow.png	normal	#ffffff	3	-150	1		Fog middle/hollow		
-Light 1	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Light%201/hollow.png	far bg	#ffffff	3	-150	1		Light 1/hollow		
-Deco small top	hollow1	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20top/hollow1.png	normal	#ffffff	0	1	1		Deco small top/hollow1		
-Deco small top	hollow2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20top/hollow2.png	normal	#ffffff	0	1	1		Deco small top/hollow2		
-Deco small top	hollow3	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20top/hollow3.png	normal	#ffffff	0	1	1		Deco small top/hollow3		
-Deco small top	hollow4	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20top/hollow4.png	normal	#ffffff	0	1	1		Deco small top/hollow4		
-Deco small bottom	caveplant	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20bottom/caveplant.png	normal	#ffffff	0	1	1		Deco small bottom/caveplant		
-Deco small bottom	hkfungus1	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20bottom/hkfungus1.png	normal	#ffffff	0	1	1		Deco small bottom/hkfungus1		
-Deco small bottom	hkfungus2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20bottom/hkfungus2.png	normal	#ffffff	0	1	1		Deco small bottom/hkfungus2		
-Deco small bottom	hkfungus3	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20bottom/hkfungus3.png	normal	#ffffff	0	1	1		Deco small bottom/hkfungus3		
-Deco small bottom	hkfungus4	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20bottom/hkfungus4.png	normal	#ffffff	0	1	1		Deco small bottom/hkfungus4		
-Edge big bottom left	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20big%20bottom%20left/hollow.png	bg	#ffffff	-0.15	-15	1		Edge big bottom left/hollow		
-Edge big bottom right	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20big%20bottom%20right/hollow.png	bg	#ffffff	-0.15	-15	1		Edge big bottom right/hollow		
-Edge big top left	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20big%20top%20left/hollow.png	bg	#ffffff	-0.15	-15	1		Edge big top left/hollow		
-Edge big top right	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20big%20top%20right/hollow.png	bg	#ffffff	-0.15	-15	1		Edge big top right/hollow		
-Edge bottom left	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20bottom%20left/hollow.png	bg	#ffffff	-0.15	-15	1		Edge bottom left/hollow		
-Edge bottom right	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20bottom%20right/hollow.png	bg	#ffffff	-0.15	-15	1		Edge bottom right/hollow		
-Edge top left	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20top%20left/hollow.png	bg	#ffffff	-0.15	-15	1		Edge top left/hollow		
-Edge top right	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Edge%20top%20right/hollow.png	bg	#ffffff	-0.15	-15	1		Edge top right/hollow		
-Unique 1	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/hollow.png	normal	#ffffff	0	1	1		Unique 1/hollow		
-Unique 1	maentrance	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/maentrance.png	bg	#ffffff	-0.15	-15	1		Unique 1/maentrance		
-BG bottom	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20bottom/moss.png	bg	#2B6029	1	-45	1		BG bottom/moss		
-BG far bottom	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20bottom/moss.png	bg	#2B6029	3	-150	1		BG far bottom/moss		
-BG far left	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20left/moss.png	far bg	#2B6029	3	-150	1		BG far left/moss		
-BG far right	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20right/moss.png	far bg	#2B6029	3	-150	1		BG far right/moss		
-BG far top	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20top/moss.png	far bg	#2B6029	3	-150	1		BG far top/moss		
-BG left	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20left/moss.png	far bg	#ffffff	3	-150	1		BG left/moss		
-BG right	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20right/moss.png	far bg	#2B6029	3	-150	1		BG right/moss		
-BG top	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20top/moss.png	far bg	#ffffff	5	-250	1		BG top/moss		
-Deco big bottom	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20bottom/moss.png	far bg	#2B6029	-0.15	-15	1		Deco big bottom/moss		
-Deco big top	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20top/moss.png	far bg	#3f8f3c	-0.15	-15	1		Deco big top/moss		
-Deco small top	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20top/moss.png	far bg	#3f8f3c	-0.15	-15	1		Deco small top/moss		
-FG near top	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/FG%20near%20top/moss.png	fg	#ffffff	-2	150	1		FG near top/moss		
-FG top	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/FG%20top/moss.png	fg	#ffffff	-0.5	16	1		FG top/moss		
-Unique 1	nbentrance	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/nbentrance.png	bg	#ffffff	-0.15	-15	1		Unique 1/nbentrance		
-BG variant	needle	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20variant/needle.png	bg	#ffffff	-0.15	-15	1		BG variant/needle		
-Unique 1	upperclock	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/upperclock.png	bg	#ffffff	-0.15	-15	1		Unique 1/upperclock		
-Unique 1	lowerclock	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/lowerclock.png	bg	#ffffff	-0.15	-15	1		Unique 1/lowerclock		
-Unique 1	start	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/start.png	normal	#ffffff	0	1	1		Unique 1/start		
-Unique 1	kettle	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/kettle.png	bg	#ffffff	-0.15	-15	1		Unique 1/kettle		
-Unique 1	can	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/can.png	bg	#ffffff	-0.15	-15	1		Unique 1/can		
-Unique 1	bottle	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Unique%201/bottle.png	bg	#ffffff	-0.15	-15	1		Unique 1/bottle		
-BG bottom	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20bottom/wood.png	bg	#ffffff	1	-45	1		BG bottom/wood		
-BG far bottom	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/BG%20far%20bottom/wood.png	far bg	#ffffff	3	-150	1		BG far bottom/wood		
-Deco big bottom	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20bottom/wood.png	bg	#ffffff	-0.15	-15	1		Deco big bottom/wood		
-Deco big top	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20top/wood.png	bg	#ffffff	-0.15	-15	1		Deco big top/wood		
-Deco small bottom	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20bottom/wood.png	normal	#ffffff	0	1	1		Deco small bottom/wood		
-Deco small left	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20left/wood.png	normal	#ffffff	0	1	1		Deco small left/wood		
-Deco small top	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20small%20top/wood.png	normal	#ffffff	0	1	1		Deco small top/wood		
-Deco big bottom	wood1	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20bottom/wood1.png	normal	#ffffff	0	1	1		Deco big bottom/wood1		
-Deco big bottom	wood2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoObjects/Deco%20big%20bottom/wood2.png	normal	#ffffff	0	1	1		Deco big bottom/wood2		
+BG bottom	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20bottom/rocky.png	bg	#ffffff	1	-45	1		BG bottom/rocky		2x2
+BG top	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20top/rocky.png	bg	#ffffff	1	-45	1		BG top/rocky		2x2
+BG left	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20left/rocky.png	bg	#ffffff	1	-45	1		BG left/rocky		2x2
+BG right	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20right/rocky.png	bg	#ffffff	1	-45	1		BG right/rocky		2x2
+BG variant	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20variant/rocky.png	bg	#ffffff	1	-45	1		BG variant/rocky		2x2
+BG far bottom	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20bottom/rocky.png	far bg	#ffffff	3	-150	1		BG far bottom/rocky		2x2
+BG far top	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20top/rocky.png	far bg	#ffffff	3	-150	1		BG far top/rocky		2x2
+BG far left	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20left/rocky.png	far bg	#ffffff	3	-150	1		BG far left/rocky		2x2
+BG far right	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20right/rocky.png	far bg	#ffffff	3	-150	1		BG far right/rocky		2x2
+BG far variant	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20variant/rocky.png	far bg	#ffffff	3	-150	1		BG far variant/rocky		2x2
+Unique 2	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/cave.png	far bg	#ffffff	8	-311	3		Unique 2/cave		
+Unique 2	mossy	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/mossy.png	far bg	#ffffff	8	-311	3		Unique 2/mossy		
+Unique 1	bamboo	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/bamboo.png	far bg	#ffffff	4	-211	1		Unique 1/bamboo		
+Unique 1	cooker	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/cooker.png	far bg	#ffffff	4	-211	1		Unique 1/cooker		
+Unique 1	machine	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/machine.png	far bg	#ffffff	4	-211	2		Unique 1/machine		
+Unique 1	porcini	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/porcini.png	far bg	#ffffff	4	-211	1		Unique 1/porcini		
+Unique 1	fungus	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/fungus.png	far bg	#ffffff	4	-211	1		Unique 1/fungus		
+Unique 1	television	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/television.png	far bg	#ffffff	4	-211	1		Unique 1/television		
+Unique 1	jukebox	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/jukebox.png	far bg	#ffffff	4	-211	2		Unique 1/jukebox		
+Unique 1	typewriter	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/typewriter.png	far bg	#ffffff	4	-211	1		Unique 1/typewriter		
+Unique 1	topper	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/topper.png	far bg	#ffffff	4	-211	1		Unique 1/topper		
+Unique 1	cottage	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/cottage.png	far bg	#ffffff	4	-211	1		Unique 1/cottage		
+Unique 1	mushroom	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/mushroom.png	far bg	#ffffff	4	-211	1		Unique 1/mushroom		
+Unique 1	hardhat	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/hardhat.png	far bg	#ffffff	4	-211	1		Unique 1/hardhat		
+Unique 1	ftree	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/ftree.png	far bg	#ffffff	4	-211	1		Unique 1/ftree		
+BG bottom	log	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20bottom/log.png	bg	#ffffff	1	-45	1		BG bottom/log		
+BG variant	hole-bars	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20variant/hole-bars.png	bg	#ffffff	1	-45	1		BG variant/hole-bars		
+FG top	stalagtites	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/FG%20top/stalagtites.png	fg	#ffffff	-0.5	16	1		FG top/stalagtites		
+Deco small bottom	shards	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20bottom/shards.png	normal	#ffffff	0	1	1		Deco small bottom/shards		
+Deco small bottom	shards2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20bottom/shards2.png	normal	#ffffff	0	1	1		Deco small bottom/shards2		
+Deco big bottom	crystal	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20bottom/crystal.png	normal	#ffffff	-0.05	-1	1		Deco big bottom/crystal		
+Deco big bottom	crystal2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20bottom/crystal2.png	normal	#ffffff	-0.05	-1	1		Deco big bottom/crystal2		
+Deco big bottom	bricks	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20bottom/bricks.png	normal	#ffffff	-0.05	-1	1		Deco big bottom/bricks		
+Deco big bottom	bricks2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20bottom/bricks2.png	normal	#ffffff	-0.05	-1	1		Deco big bottom/bricks2		
+Deco big bottom	bottle	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20bottom/bottle.png	normal	#ffffff	-0.05	-1	1		Deco big bottom/bottle		
+Deco small top	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20top/mantis.png	normal	#ffffff	0	1	1		Deco small top/mantis		
+Deco big bottom	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20bottom/mantis.png	normal	#ffffff	-0.05	-1	1		Deco big bottom/mantis		
+Deco big left	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20left/mantis.png	normal	#ffffff	-0.05	-1	1		Deco big left/mantis		
+Deco big right	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20right/mantis.png	normal	#ffffff	-0.05	-1	1		Deco big right/mantis		
+Deco big top	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20top/mantis.png	normal	#ffffff	-0.05	-1	1		Deco big top/mantis		
+Edge big top left	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20big%20top%20left/mantis.png	bg	#ffffff	-0.15	-15	1		Edge big top left/mantis		
+Edge big top right	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20big%20top%20right/mantis.png	bg	#ffffff	-0.15	-15	1		Edge big top right/mantis		
+Edge top left	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20top%20left/mantis.png	bg	#ffffff	-0.15	-15	1		Edge top left/mantis		
+Edge top right	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20top%20right/mantis.png	bg	#ffffff	-0.15	-15	1		Edge top right/mantis		
+BG far variant	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20variant/mantis.png	bg	#ffffff	3	-150	1		BG far variant/mantis		
+BG far top	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20top/mantis.png	bg	#ffffff	3	-150	1		BG far top/mantis		
+BG far left	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20left/mantis.png	bg	#ffffff	3	-150	1		BG far left/mantis		
+BG far right	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20right/mantis.png	bg	#ffffff	3	-150	1		BG far right/mantis		
+BG far bottom	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20bottom/mantis.png	bg	#ffffff	3	-150	1		BG far bottom/mantis		
+BG bottom	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20bottom/mantis.png	bg	#ffffff	1	-45	1		BG bottom/mantis		
+BG top	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20top/mantis.png	bg	#ffffff	1	-45	1		BG top/mantis		
+BG left	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20left/mantis.png	bg	#ffffff	1	-45	1		BG left/mantis		
+BG right	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20right/mantis.png	bg	#ffffff	1	-45	1		BG right/mantis		
+BG variant	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20variant/mantis.png	bg	#ffffff	1	-45	1		BG variant/mantis		
+Edge big bottom left	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20big%20bottom%20left/mantis.png	bg	#ffffff	-0.15	-15	1		Edge big bottom left/mantis		
+Edge big bottom right	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20big%20bottom%20right/mantis.png	bg	#ffffff	-0.15	-15	1		Edge big bottom right/mantis		
+FG top	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/FG%20top/mantis.png	fg	#ffffff	-0.5	16	1		FG top/mantis		
+FG bottom	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/FG%20bottom/mantis.png	fg	#ffffff	-0.5	16	1		FG bottom/mantis		
+Fog middle	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Fog%20middle/mantis.png	far bg	#ffffff	3	-150	1		Fog middle/mantis		
+Light 1	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Light%201/mantis.png	far bg	#ffffff	3	-150	1		Light 1/mantis		
+Unique 1	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/mantis.png	normal	#ffffff	0	1	1		Unique 1/mantis		
+Destroyable block	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Destroyable%20block/mantis.png	behind	#ffffff	-0.21	-1	1		Destroyable block/mantis		
+Deco small bottom	mantis	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20bottom/mantis.png	normal	#ffffff	0	1	1		Deco small bottom/mantis		
+Deco small bottom	mantis2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20bottom/mantis2.png	normal	#ffffff	0	1	1		Deco small bottom/mantis2		
+BG bottom	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20bottom/cave.png	bg	#ffffff	1	-45	1		BG bottom/cave		6x6
+BG far bottom	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20bottom/cave.png	far bg	#ffffff	3	-150	1		BG far bottom/cave		6x6
+BG far left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20left/cave.png	far bg	#ffffff	3	-150	1		BG far left/cave		6x6
+BG far right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20right/cave.png	far bg	#ffffff	3	-150	1		BG far right/cave		6x6
+BG far top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20top/cave.png	far bg	#ffffff	3	-150	1		BG far top/cave		6x6
+BG far variant	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20variant/cave.png	far bg	#ffffff	3	-150	1		BG far variant/cave		6x6
+BG left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20left/cave.png	bg	#ffffff	1	-45	1		BG left/cave		6x6
+BG right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20right/cave.png	bg	#ffffff	1	-45	1		BG right/cave		6x6
+BG top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20top/cave.png	bg	#ffffff	1	-45	1		BG top/cave		6x6
+BG variant	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20variant/cave.png	bg	#ffffff	1	-45	1		BG variant/cave		6x6
+Deco big bottom	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20bottom/cave.png	normal	#ffffff	-0.05	-1	1		Deco big bottom/cave		
+Deco big left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20left/cave.png	normal	#ffffff	0	1	1		Deco big left/cave		
+Deco big right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20right/cave.png	normal	#ffffff	0	1	1		Deco big right/cave		
+Deco big top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20top/cave.png	normal	#ffffff	0	1	1		Deco big top/cave		
+Deco small right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20right/cave.png	normal	#ffffff	0	1	1		Deco small right/cave		
+Deco small top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20top/cave.png	normal	#ffffff	0	1	1		Deco small top/cave		
+Edge big bottom left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20big%20bottom%20left/cave.png	bg	#ffffff	-0.15	-15	1		Edge big bottom left/cave		
+Edge big bottom right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20big%20bottom%20right/cave.png	bg	#ffffff	-0.15	-15	1		Edge big bottom right/cave		
+Edge big top left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20big%20top%20left/cave.png	bg	#ffffff	-0.15	-15	1		Edge big top left/cave		
+Edge big top right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20big%20top%20right/cave.png	bg	#ffffff	-0.15	-15	1		Edge big top right/cave		
+Edge bottom left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20bottom%20left/cave.png	bg	#ffffff	-0.15	-15	1		Edge bottom left/cave		
+Edge bottom right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20bottom%20right/cave.png	bg	#ffffff	-0.15	-15	1		Edge bottom right/cave		
+Edge top left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20top%20left/cave.png	bg	#ffffff	0	1	1		Edge top left/cave		
+Edge top right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20top%20right/cave.png	bg	#ffffff	#ffffff	1	1		Edge top right/cave		
+FG near top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/FG%20near%20top/cave.png	fg	#ffffff	-2	150	1		FG near top/cave		
+FG top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/FG%20top/cave.png	fg	#ffffff	-0.5	16	1		FG top/cave		
+Fog middle	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Fog%20middle/cave.png	far bg	#ffffff	3	-150	1		Fog middle/cave		
+Light 1	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Light%201/cave.png	far bg	#ffffff	3	-150	1		Light 1/cave		
+Light 3	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Light%203/cave.png	far bg	#ffffff	3	-150	1		Light 3/cave		
+Deco small top	viking	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20top/viking.png	normal	#ffffff	0	1	1		Deco small top/viking		
+Destroyable block	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Destroyable%20block/cave.png	behind	#ffffff	-0.21	-1	1		Destroyable block/cave		
+BG far bottom	hollow1	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20bottom/hollow1.png	bg	#ffffff	3	-150	1		BG far bottom/hollow1		
+BG far bottom	hollow2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20bottom/hollow2.png	bg	#ffffff	3	-150	1		BG far bottom/hollow2		
+BG bottom	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20bottom/hollow.png	bg	#ffffff	1	-45	1		BG bottom/hollow		
+BG left	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20left/hollow.png	bg	#ffffff	1	-45	1		BG left/hollow		
+BG right	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20right/hollow.png	bg	#ffffff	1	-45	1		BG right/hollow		
+Deco big bottom	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20bottom/hollow.png	bg	#ffffff	-0.15	-15	1		Deco big bottom/hollow		
+Deco big bottom	hollow1	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20bottom/hollow1.png	bg	#ffffff	-0.15	-15	1		Deco big bottom/hollow1		
+Deco big bottom	hollow2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20bottom/hollow2.png	bg	#ffffff	-0.15	-15	1		Deco big bottom/hollow2		
+Deco big bottom	hollow3	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20bottom/hollow3.png	bg	#ffffff	-0.15	-15	1		Deco big bottom/hollow3		
+Deco big bottom	hollow4	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20bottom/hollow4.png	bg	#ffffff	-0.15	-15	1		Deco big bottom/hollow4		
+Deco big top	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20top/hollow.png	normal	#ffffff	0	1	1		Deco big top/hollow		
+Fog middle	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Fog%20middle/hollow.png	normal	#ffffff	3	-150	1		Fog middle/hollow		
+Light 1	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Light%201/hollow.png	far bg	#ffffff	3	-150	1		Light 1/hollow		
+Deco small top	hollow1	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20top/hollow1.png	normal	#ffffff	0	1	1		Deco small top/hollow1		
+Deco small top	hollow2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20top/hollow2.png	normal	#ffffff	0	1	1		Deco small top/hollow2		
+Deco small top	hollow3	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20top/hollow3.png	normal	#ffffff	0	1	1		Deco small top/hollow3		
+Deco small top	hollow4	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20top/hollow4.png	normal	#ffffff	0	1	1		Deco small top/hollow4		
+Deco small bottom	caveplant	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20bottom/caveplant.png	normal	#ffffff	0	1	1		Deco small bottom/caveplant		
+Deco small bottom	hkfungus1	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20bottom/hkfungus1.png	normal	#ffffff	0	1	1		Deco small bottom/hkfungus1		
+Deco small bottom	hkfungus2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20bottom/hkfungus2.png	normal	#ffffff	0	1	1		Deco small bottom/hkfungus2		
+Deco small bottom	hkfungus3	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20bottom/hkfungus3.png	normal	#ffffff	0	1	1		Deco small bottom/hkfungus3		
+Deco small bottom	hkfungus4	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20bottom/hkfungus4.png	normal	#ffffff	0	1	1		Deco small bottom/hkfungus4		
+Edge big bottom left	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20big%20bottom%20left/hollow.png	bg	#ffffff	-0.15	-15	1		Edge big bottom left/hollow		
+Edge big bottom right	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20big%20bottom%20right/hollow.png	bg	#ffffff	-0.15	-15	1		Edge big bottom right/hollow		
+Edge big top left	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20big%20top%20left/hollow.png	bg	#ffffff	-0.15	-15	1		Edge big top left/hollow		
+Edge big top right	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20big%20top%20right/hollow.png	bg	#ffffff	-0.15	-15	1		Edge big top right/hollow		
+Edge bottom left	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20bottom%20left/hollow.png	bg	#ffffff	-0.15	-15	1		Edge bottom left/hollow		
+Edge bottom right	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20bottom%20right/hollow.png	bg	#ffffff	-0.15	-15	1		Edge bottom right/hollow		
+Edge top left	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20top%20left/hollow.png	bg	#ffffff	-0.15	-15	1		Edge top left/hollow		
+Edge top right	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20top%20right/hollow.png	bg	#ffffff	-0.15	-15	1		Edge top right/hollow		
+Unique 1	hollow	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/hollow.png	normal	#ffffff	0	1	1		Unique 1/hollow		
+Unique 1	maentrance	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/maentrance.png	bg	#ffffff	-0.15	-15	1		Unique 1/maentrance		
+BG bottom	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20bottom/moss.png	bg	#ffffff	1	-45	1		BG bottom/moss		
+BG far bottom	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20bottom/moss.png	bg	#ffffff	3	-150	1		BG far bottom/moss		
+BG far left	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20left/moss.png	far bg	#ffffff	3	-150	1		BG far left/moss		
+BG far right	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20right/moss.png	far bg	#ffffff	3	-150	1		BG far right/moss		
+BG far top	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20top/moss.png	far bg	#ffffff	3	-150	1		BG far top/moss		
+BG left	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20left/moss.png	far bg	#ffffff	3	-150	1		BG left/moss		
+BG right	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20right/moss.png	far bg	#ffffff	3	-150	1		BG right/moss		
+BG top	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20top/moss.png	far bg	#ffffff	5	-250	1		BG top/moss		
+Deco big bottom	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20bottom/moss.png	far bg	#ffffff	-0.15	-15	1		Deco big bottom/moss		
+Deco big top	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20top/moss.png	far bg	#ffffff	-0.15	-15	1		Deco big top/moss		
+Deco small top	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20top/moss.png	far bg	#ffffff	-0.15	-15	1		Deco small top/moss		
+FG near top	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/FG%20near%20top/moss.png	fg	#ffffff	-2	150	1		FG near top/moss		
+FG top	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/FG%20top/moss.png	fg	#ffffff	-0.5	16	1		FG top/moss		
+Unique 1	nbentrance	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/nbentrance.png	bg	#ffffff	-0.15	-15	1		Unique 1/nbentrance		
+BG variant	needle	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20variant/needle.png	bg	#ffffff	-0.15	-15	1		BG variant/needle		
+Unique 1	upperclock	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/upperclock.png	bg	#ffffff	-0.15	-15	1		Unique 1/upperclock		
+Unique 1	lowerclock	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/lowerclock.png	bg	#ffffff	-0.15	-15	1		Unique 1/lowerclock		
+Unique 1	start	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/start.png	normal	#ffffff	0	1	1		Unique 1/start		
+Unique 1	kettle	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/kettle.png	bg	#ffffff	-0.15	-15	1		Unique 1/kettle		
+Unique 1	can	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/can.png	bg	#ffffff	-0.15	-15	1		Unique 1/can		
+Unique 1	bottle	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/bottle.png	bg	#ffffff	-0.15	-15	1		Unique 1/bottle		
+BG bottom	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20bottom/wood.png	bg	#ffffff	1	-45	1		BG bottom/wood		
+BG far bottom	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20bottom/wood.png	far bg	#ffffff	3	-150	1		BG far bottom/wood		
+Deco big bottom	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20bottom/wood.png	bg	#ffffff	-0.15	-15	1		Deco big bottom/wood		
+Deco big top	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20top/wood.png	bg	#ffffff	-0.15	-15	1		Deco big top/wood		
+Deco small bottom	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20bottom/wood.png	normal	#ffffff	0	1	1		Deco small bottom/wood		
+Deco small left	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20left/wood.png	normal	#ffffff	0	1	1		Deco small left/wood		
+Deco small top	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20small%20top/wood.png	normal	#ffffff	0	1	1		Deco small top/wood		
+Deco big bottom	wood1	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20bottom/wood1.png	normal	#ffffff	0	1	1		Deco big bottom/wood1		
+Deco big bottom	wood2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20bottom/wood2.png	normal	#ffffff	0	1	1		Deco big bottom/wood2		
