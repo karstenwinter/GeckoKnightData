@@ -1,4 +1,9 @@
 Prefab	Variant	Url	Layer	Tone	Z	Sort	Scale	Preview	Info	Test Lookup	Size (WxH)
+Unique 2	section	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/section.png	far bg	#ffffff	40	-311	5		Unique 2/section		
+Unique 2	PlayerStart	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/PlayerStart.png	far bg	#ffffff	40	-311	5		Unique 2/PlayerStart		
+Unique 2	TwistedSnakeRoom	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/TwistedSnakeRoom.png	far bg	#ffffff	40	-311	5		Unique 2/TwistedSnakeRoom		
+Unique 2	LizardTwinRoom	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/LizardTwinRoom.png	far bg	#ffffff	40	-311	5		Unique 2/LizardTwinRoom		
+Unique 2	MadSpiderRoom	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/MadSpiderRoom.png	far bg	#ffffff	40	-311	5		Unique 2/MadSpiderRoom		
 BG bottom	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20bottom/rocky.png	bg	#ffffff	1	-45	1		BG bottom/rocky		2x2
 BG top	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20top/rocky.png	bg	#ffffff	1	-45	1		BG top/rocky		2x2
 BG left	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20left/rocky.png	bg	#ffffff	1	-45	1		BG left/rocky		2x2
@@ -9,7 +14,6 @@ BG far top	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData
 BG far left	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20left/rocky.png	far bg	#ffffff	3	-150	1		BG far left/rocky		2x2
 BG far right	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20right/rocky.png	far bg	#ffffff	3	-150	1		BG far right/rocky		2x2
 BG far variant	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20variant/rocky.png	far bg	#ffffff	3	-150	1		BG far variant/rocky		2x2
-Unique 2	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/cave.png	far bg	#ffffff	8	-311	3		Unique 2/cave		
 Unique 2	mossy	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/mossy.png	far bg	#ffffff	8	-311	3		Unique 2/mossy		
 Unique 1	bamboo	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/bamboo.png	far bg	#ffffff	4	-211	1		Unique 1/bamboo		
 Unique 1	cooker	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/cooker.png	far bg	#ffffff	4	-211	1		Unique 1/cooker		
