@@ -23,7 +23,7 @@ Unique 1	topper	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/
 Unique 1	cottage	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/cottage.png	far bg	#ffffff	4	-211	1		Unique 1/cottage		
 Unique 1	mushroom	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/mushroom.png	far bg	#ffffff	4	-211	1		Unique 1/mushroom		
 Unique 1	hardhat	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/hardhat.png	far bg	#ffffff	4	-211	1		Unique 1/hardhat		
-Unique 1	ftree	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/ftree.png	far bg	#ffffff	4	-211	1		Unique 1/ftree		
+Unique 1	ftree	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/ftree.png	far bg	#ffffff	4	-211	3		Unique 1/ftree		
 BG bottom	log	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20bottom/log.png	bg	#ffffff	1	-45	1		BG bottom/log		
 BG variant	hole-bars	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20variant/hole-bars.png	bg	#ffffff	1	-45	1		BG variant/hole-bars		
 FG top	stalagtites	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/FG%20top/stalagtites.png	fg	#ffffff	-0.5	16	1		FG top/stalagtites		
@@ -72,6 +72,7 @@ BG far variant	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightD
 BG left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20left/cave.png	bg	#ffffff	1	-45	1		BG left/cave		6x6
 BG right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20right/cave.png	bg	#ffffff	1	-45	1		BG right/cave		6x6
 BG top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20top/cave.png	bg	#ffffff	1	-45	1		BG top/cave		6x6
+BG top	cave2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20top/cave2.png	bg	#ffffff	1	-45	1		BG top/cave2		6x6
 BG variant	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20variant/cave.png	bg	#ffffff	1	-45	1		BG variant/cave		6x6
 Deco big bottom	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20bottom/cave.png	normal	#ffffff	-0.05	-1	1		Deco big bottom/cave		
 Deco big left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Deco%20big%20left/cave.png	normal	#ffffff	0	1	1		Deco big left/cave		

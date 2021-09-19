@@ -97,7 +97,7 @@ TwistedSnake	up	1
 TwistedSnake	shoot	1				
 TwistedSnake	projectile	3				
 CrowBuddy	idle	1	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/CrowBuddy.png		
-TurtleGuy	idle	1	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/TurtleGuy.png		
-LizardChild	idle	1	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/LizardChild.png		
+TurtleGuy	idle	3	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/TurtleGuy.png		
+LizardChild	idle	3	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/LizardChild.png		
 MoleGuy	idle	1	260	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/MoleGuy.png		
 SnakeGuy	idle	1	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/SnakeGuy.png		
