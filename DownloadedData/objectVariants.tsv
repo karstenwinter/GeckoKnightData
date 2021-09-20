@@ -1,9 +1,12 @@
 Prefab	Variant	Url	Layer	Tone	Z	Sort	Scale	Preview	Info	Test Lookup	Size (WxH)
-Unique 2	section	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/section.png	far bg	#ffffff	40	-311	5		Unique 2/section		
-Unique 2	PlayerStart	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/PlayerStart.png	far bg	#ffffff	40	-311	5		Unique 2/PlayerStart		
-Unique 2	TwistedSnakeRoom	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/TwistedSnakeRoom.png	far bg	#ffffff	40	-311	5		Unique 2/TwistedSnakeRoom		
-Unique 2	LizardTwinRoom	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/LizardTwinRoom.png	far bg	#ffffff	40	-311	5		Unique 2/LizardTwinRoom		
-Unique 2	MadSpiderRoom	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/MadSpiderRoom.png	far bg	#ffffff	40	-311	5		Unique 2/MadSpiderRoom		
+Unique 2	section	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/section.png	far bg	#ffffff	40	-311	6		Unique 2/section		
+Unique 2	PlayerStart	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/PlayerStart.png	far bg	#ffffff	40	-311	6		Unique 2/PlayerStart		
+Unique 2	TwistedSnakeRoom	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/TwistedSnakeRoom.png	far bg	#ffffff	40	-311	6		Unique 2/TwistedSnakeRoom		
+Unique 2	LizardTwinRoom	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/LizardTwinRoom.png	far bg	#ffffff	40	-311	6		Unique 2/LizardTwinRoom		
+Unique 2	MadSpiderRoom	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/MadSpiderRoom.png	far bg	#ffffff	40	-311	6		Unique 2/MadSpiderRoom		
+Unique 2	NBEntrance	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%202/NBEntrance.png	far bg	#ffffff	40	-311	6		Unique 2/NBEntrance		
+FG bottom	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/FG%20bottom/cave.png	fg	#ffffff	-0.5	16	1		FG bottom/cave		
+FG bottom	cave2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/FG%20bottom/cave2.png	fg	#ffffff	-0.5	16	1		FG bottom/cave2		
 BG bottom	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20bottom/rocky.png	bg	#ffffff	1	-45	1		BG bottom/rocky		2x2
 BG top	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20top/rocky.png	bg	#ffffff	1	-45	1		BG top/rocky		2x2
 BG left	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20left/rocky.png	bg	#ffffff	1	-45	1		BG left/rocky		2x2
