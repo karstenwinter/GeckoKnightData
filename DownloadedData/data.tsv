@@ -1,10 +1,10 @@
 Location	Object	Key	Url	Preview	HP	Damage	Value	Data	Test Lookup	Jump: 1 up, 3 wide
-NeedleRoom	Upgrade 1	Needle	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjects/Needle.png			1				Pogo: 3 up, 4 with precise 2nd pogo
-HealingRoom	Upgrade 1	Heal	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjects/Heal.png		1					
-DashRoom	Upgrade 1	Dash	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjects/Dash.png							Dash: 3 wide
-Dash2Room	Upgrade 1	SuperDash	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjects/SuperDash.png							
+NeedleRoom	Upgrade 1	Needle	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/Needle.png			1				Pogo: 3 up, 4 with precise 2nd pogo
+HealingRoom	Upgrade 1	Heal	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/Heal.png		1					
+DashRoom	Upgrade 1	Dash	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/Dash.png							Dash: 3 wide
+Dash2Room	Upgrade 1	SuperDash	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/SuperDash.png							
 MagicMissileRoom	Upgrade 1	MagicMissile								
-MadSpiderRoom	Boss 1	MadSpider			9	2		AnimatedObject.speed: 7, EnemyController.tone: #b56565		
+MadSpiderRoom	Boss 1	MadSpider			9	2		AnimatedObject.imgWidth: 4, AnimatedObject.speed: 7		
 LizardTwinRoom	Boss 1	LizardTwin			13	1		EnemyController.tone: #483F00		
 TwistedSnakeRoom	Boss 1	TwistedSnake			24	1		AnimatedObject.imgWidth: 4		
 Cave	Enemy 1	Bug			3	1				
@@ -43,8 +43,8 @@ SectionWithHardhat	Character_1	MoleGuy						NPCFEntrance
 SectionWithBricks	Character_1	MoleGuy						Yes		
 MAEntrance	Character_1	SnakeGuy						NPCMAEntrance		
 CrowBuddyRoom	Character_1	CrowBuddy						CrowBuddyRoom		
-Cave	Character_1	FrogSensei						FrogDialog		
-Mossy	Character_1	TvDog						TvDogDialog		
+FrogSenseiRoom	Character_1	FrogSensei						FrogDialog		
+TvDogRoom	Character_1	TvDog						TvDogDialog		
 Lizard	Character_1	Lizard						Yes		
 UpperCave	Character_2	RiddleMaster								
 LowerCave	Character_1	BeeHunter								

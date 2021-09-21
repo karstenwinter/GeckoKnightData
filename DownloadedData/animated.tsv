@@ -30,6 +30,10 @@ Shells bottom	cave	idle	5	120	normal	#ffffff	0	1	https://raw.githubusercontent.c
 Shells bottom	cave	dead	1		normal	#ffffff	0	1				
 Shells bottom	cave	particle	1		normal	#ffffff	0	1				
 Shells bottom	cave	pickup	1		normal	#ffffff	0	1				
+Shells bottom	wood	idle	5	120	normal	#ffffff	0	1	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedAnimated/Shells%20bottom/wood.png			
+Shells bottom	wood	dead	1		normal	#ffffff	0	1				
+Shells bottom	wood	particle	1		normal	#ffffff	0	1				
+Shells bottom	wood	pickup	1		normal	#ffffff	0	1				
 Shells bottom	mossy	idle	5	120	normal	#ffffff	0	1	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedAnimated/Shells%20bottom/mossy.png			
 Shells bottom	mossy	dead	1		normal	#ffffff	0	1				
 Shells bottom	mossy	particle	1		normal	#ffffff	0	1				
