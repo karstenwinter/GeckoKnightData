@@ -19,15 +19,21 @@ FG right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/ma
 FG bottom	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/FG%20bottom/cave.png	fg	#ffffff	-0.5	16	1	ShadedSprite		FG bottom/cave				
 FG bottom	cave2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/FG%20bottom/cave2.png	fg	#ffffff	-0.5	16	1	ShadedSprite		FG bottom/cave2				
 BG bottom	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20bottom/rocky.png	bg	#ffffff	1	-45	1			BG bottom/rocky			2x2	
+BG bottom	rocky2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20bottom/rocky2.png	bg	#ffffff	1	-45	1			BG bottom/rocky2			2x2	
 BG top	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20top/rocky.png	bg	#ffffff	1	-45	1			BG top/rocky			2x2	
+BG top	rocky2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20top/rocky2.png	bg	#ffffff	1	-45	1			BG top/rocky2			2x2	
 BG left	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20left/rocky.png	bg	#ffffff	1	-45	1			BG left/rocky			2x2	
+BG left	rocky2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20left/rocky2.png	bg	#ffffff	1	-45	1			BG left/rocky2			2x2	
 BG right	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20right/rocky.png	bg	#ffffff	1	-45	1			BG right/rocky			2x2	
+BG right	rocky2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20right/rocky2.png	bg	#ffffff	1	-45	1			BG right/rocky2			2x2	
 BG variant	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20variant/rocky.png	bg	#ffffff	1	-45	1			BG variant/rocky			2x2	
 Destroyable block	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Destroyable%20block/cave.png	behind	#ffffff	-0.21	-1	1			Destroyable block/cave				
 BG far bottom	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20bottom/rocky.png	far bg	#ffffff	3	-150	1			BG far bottom/rocky			2x2	
 BG far top	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20top/rocky.png	far bg	#ffffff	3	-150	1			BG far top/rocky			2x2	
+BG far top	rocky2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20top/rocky2.png	far bg	#ffffff	3	-150	1			BG far top/rocky2			2x2	
 BG far left	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20left/rocky.png	far bg	#ffffff	3	-150	1			BG far left/rocky			2x2	
 BG far right	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20right/rocky.png	far bg	#ffffff	3	-150	1			BG far right/rocky			2x2	
+BG far right	rocky2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20right/rocky2.png	far bg	#ffffff	3	-150	1			BG far right/rocky2			2x2	
 BG far variant	rocky	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20variant/rocky.png	far bg	#ffffff	3	-150	1			BG far variant/rocky			2x2	
 Unique 1	msentrance	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/msentrance.png	far bg	#ffffff	4	-211	1			Unique 1/msentrance				
 Unique 1	machine	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/machine.png	far bg	#ffffff	4	-211	2			Unique 1/machine				
