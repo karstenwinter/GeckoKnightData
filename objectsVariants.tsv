@@ -1,0 +1,94 @@
+Prefab	Variant	Url	Bg	Preview		tree /F	just paste in E2
+Camp						├───Camp	
+Deco big bottom						├───Deco big bottom	
+Deco big bottom	cave1	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20big%20bottom/cave1.png	bg			│       cave1.png	
+Deco big bottom	cave12	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20big%20bottom/cave12.png	bg			│       cave12.png	
+Deco big bottom	cave2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20big%20bottom/cave2.png	bg			│       cave2.png	
+Deco big bottom	cave3	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20big%20bottom/cave3.png	bg			│       cave3.png	
+Deco big bottom	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20big%20bottom/wood.png	bg			│       wood.png	
+Deco big bottom						│	
+Deco big left						├───Deco big left	
+Deco big left	town	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20big%20left/town.png	bg			│       town.png	
+Deco big left						│	
+Deco big right						├───Deco big right	
+Deco big right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20big%20right/cave.png	bg			│       cave.png	
+Deco big right						│	
+Deco big top						├───Deco big top	
+Deco big top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20big%20top/cave.png	bg			│       cave.png	
+Deco big top	cave2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20big%20top/cave2.png				│       cave2.png	
+Deco big top	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20big%20top/wood.png				│       wood.png	
+Deco big top						│	
+Deco small bottom						├───Deco small bottom	
+Deco small bottom	cave3	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20small%20bottom/cave3.png				│       cave3.png	
+Deco small bottom	cave4	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20small%20bottom/cave4.png				│       cave4.png	
+Deco small bottom	town2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20small%20bottom/town2.png				│       town2.png	
+Deco small bottom	town3	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20small%20bottom/town3.png	bg			│       town3.png	
+Deco small bottom	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20small%20bottom/wood.png				│       wood.png	
+Deco small bottom	wood2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20small%20bottom/wood2.png				│       wood2.png	
+Deco small bottom						│	
+Deco small left						├───Deco small left	
+Deco small left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20small%20left/cave.png				│       cave.png	
+Deco small left	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20small%20left/wood.png				│       wood.png	
+Deco small left						│	
+Deco small right						├───Deco small right	
+Deco small right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20small%20right/cave.png				│       cave.png	
+Deco small right						│	
+Deco small top						├───Deco small top	
+Deco small top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20small%20top/cave.png				│       cave.png	
+Deco small top	wood	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/Deco%20small%20top/wood.png	bg			│       wood.png	
+Deco small top						│	
+Destroyable block						├───Destroyable block	
+Destroyable wall left						├───Destroyable wall left	
+Destroyable wall right						├───Destroyable wall right	
+Edge bottom left						├───Edge bottom left	
+Edge bottom right						├───Edge bottom right	
+Edge top left						├───Edge top left	
+Edge top right			bg			├───Edge top right	
+Edge2 top left			bg			├───Edge2 top left	
+Edge2 top right						├───Edge2 top right	
+Enemy 1						├───Enemy 1	
+Shells bottom						├───Shells bottom	
+Shells left						├───Shells left	
+Shells right						├───Shells right	
+Shells top						├───Shells top	
+Trap left						├───Trap left	
+Trap right						├───Trap right	
+Upgrade 1						├───Upgrade 1	
+						├───_Deco big bottom	
+						│       cave4.png	
+						│       cave5.png	
+						│       cave6.png	
+						│       cave7.png	
+						│       cave8.png	
+						│       cave9.png	
+						│       town.png	
+						│       town1.png	
+						│       town2.png	
+						│       wood2.png	
+						│       wood3.png	
+						│	
+_Deco big top						├───_Deco big top	
+_Deco big top	cave3	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/_Deco%20big%20top/cave3.png				│       cave3.png	
+_Deco big top	cave4	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/_Deco%20big%20top/cave4.png				│       cave4.png	
+_Deco big top	cave5	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/_Deco%20big%20top/cave5.png				│       cave5.png	
+_Deco big top	moss	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/_Deco%20big%20top/moss.png				│       moss.png	
+_Deco big top	moss2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/_Deco%20big%20top/moss2.png				│       moss2.png	
+_Deco big top	town	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/_Deco%20big%20top/town.png				│       town.png	
+_Deco big top	town2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/_Deco%20big%20top/town2.png				│       town2.png	
+_Deco big top	town3	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/_Deco%20big%20top/town3.png				│       town3.png	
+_Deco big top	town4	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/_Deco%20big%20top/town4.png				│       town4.png	
+_Deco big top	wood2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/_Deco%20big%20top/wood2.png				│       wood2.png	
+_Deco big top	wood3	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/_Deco%20big%20top/wood3.png				│       wood3.png	
+_Deco big top	wood4	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/_Deco%20big%20top/wood4.png				│       wood4.png	
+_Deco big top	wood5	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/_Deco%20big%20top/wood5.png				│       wood5.png	
+_Deco big top						│	
+_Deco small right						├───_Deco small right	
+_Deco small right	town	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/_Deco%20small%20right/town.png				│       town.png	
+_Deco small right	wood1	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/_Deco%20small%20right/wood1.png				│       wood1.png	
+_Deco small right	wood2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/Objects/_Deco%20small%20right/wood2.png				│       wood2.png	
+_Deco small right						│	
+_Deco small right						└───_Deco small top	
+_Deco small right						cave1.png	
+_Deco small right						moss2.png	
+_Deco small right						wood1.png	
+_Deco small right						wood2.png	
