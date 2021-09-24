@@ -2,3 +2,6 @@
 *.asset
 travis-build/obj
 travis-build/.vs
+*.prefab
+Objects/
+Minimap/
