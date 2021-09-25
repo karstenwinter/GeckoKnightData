@@ -23,8 +23,8 @@ BG far right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightDat
 BG far top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20top/cave.png	far bg 7	#ffffff	3	-150	1			BG far top/cave			6x6	
 BG far variant	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20variant/cave.png	far bg 7	#ffffff	3	-150	1			BG far variant/cave			6x6	
 BG left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20left/cave.png	bg 4	#ffffff	1	-45	1			BG left/cave			6x6	
-BG right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20right/cave.png	bg 4	#ffffff	1	-45	1			BG right/cave			6x6	
 BG left	cave2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20left/cave2.png	bg 4	#ffffff	1	-45	1			BG left/cave2			6x6	
+BG right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20right/cave.png	bg 4	#ffffff	1	-45	1			BG right/cave			6x6	
 BG right	cave2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20right/cave2.png	bg 4	#ffffff	1	-45	1			BG right/cave2			6x6	
 BG top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20top/cave.png	bg 4	#ffffff	1	-45	1			BG top/cave			6x6	
 BG top	cave2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20top/cave2.png	bg 4	#ffffff	1	-45	1			BG top/cave2			6x6	
@@ -87,10 +87,10 @@ Edge big bottom left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoK
 Edge big bottom right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20big%20bottom%20right/cave.png	bg 4	#ffffff	-0.15	-15	1	ShadedSprite		Edge big bottom right/cave				
 Edge big top left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20big%20top%20left/cave.png	bg 4	#ffffff	-0.15	-15	1	ShadedSprite		Edge big top left/cave				
 Edge big top right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20big%20top%20right/cave.png	bg 4	#ffffff	-0.15	-15	1	ShadedSprite		Edge big top right/cave				
-Edge bottom left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20bottom%20left/cave.png	behind player 0	#ffffff	0	1	1	ShadedSprite		Edge bottom left/cave				
-Edge bottom right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20bottom%20right/cave.png	behind player 0	#ffffff	0	1	1	ShadedSprite		Edge bottom right/cave				
-Edge top left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20top%20left/cave.png	behind player 0	#ffffff	0	1	1	ShadedSprite		Edge top left/cave				
-Edge top right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20top%20right/cave.png	behind player 0	#ffffff	0	1	1	ShadedSprite		Edge top right/cave				
+Edge bottom left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20bottom%20left/cave.png	behind player 0	#ffffff	-0.01	-2	1	ShadedSprite		Edge bottom left/cave				
+Edge bottom right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20bottom%20right/cave.png	behind player 0	#ffffff	-0.01	-2	1	ShadedSprite		Edge bottom right/cave				
+Edge top left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20top%20left/cave.png	behind player 0	#ffffff	-0.01	-2	1	ShadedSprite		Edge top left/cave				
+Edge top right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20top%20right/cave.png	behind player 0	#ffffff	-0.01	-2	1	ShadedSprite		Edge top right/cave				
 FG near top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/FG%20near%20top/cave.png	near fg 4	#ffffff	-2	150	1			FG near top/cave				
 FG top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/FG%20top/cave.png	before player 0	#ffffff	-0.5	16	1			FG top/cave				
 Fog before	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Fog%20before/cave.png	fog 0	#ffffff	-0.5	16	3			Fog before/cave				
