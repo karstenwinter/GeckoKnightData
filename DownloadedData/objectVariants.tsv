@@ -28,6 +28,7 @@ BG left	cave2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/ma
 BG right	cave2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20right/cave2.png	bg 4	#ffffff	1	-45	1			BG right/cave2			6x6	
 BG top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20top/cave.png	bg 4	#ffffff	1	-45	1			BG top/cave			6x6	
 BG top	cave2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20top/cave2.png	bg 4	#ffffff	1	-45	1			BG top/cave2			6x6	
+BG top	cave3	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20top/cave3.png	bg 4	#ffffff	1	-45	1			BG top/cave3			6x6	
 BG variant	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20variant/cave.png	bg 4	#ffffff	1	-45	1			BG variant/cave			6x6	
 FG left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/FG%20left/cave.png	before player 0	#ffffff	-0.5	16	1	ShadedSprite		FG left/cave				
 FG right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/FG%20right/cave.png	before player 0	#ffffff	-0.5	16	1	ShadedSprite		FG right/cave				
