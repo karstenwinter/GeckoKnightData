@@ -24,6 +24,8 @@ BG far top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/
 BG far variant	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20far%20variant/cave.png	far bg 7	#ffffff	3	-150	1			BG far variant/cave			6x6	
 BG left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20left/cave.png	bg 4	#ffffff	1	-45	1			BG left/cave			6x6	
 BG right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20right/cave.png	bg 4	#ffffff	1	-45	1			BG right/cave			6x6	
+BG left	cave2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20left/cave2.png	bg 4	#ffffff	1	-45	1			BG left/cave2			6x6	
+BG right	cave2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20right/cave2.png	bg 4	#ffffff	1	-45	1			BG right/cave2			6x6	
 BG top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20top/cave.png	bg 4	#ffffff	1	-45	1			BG top/cave			6x6	
 BG top	cave2	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20top/cave2.png	bg 4	#ffffff	1	-45	1			BG top/cave2			6x6	
 BG variant	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/BG%20variant/cave.png	bg 4	#ffffff	1	-45	1			BG variant/cave			6x6	
