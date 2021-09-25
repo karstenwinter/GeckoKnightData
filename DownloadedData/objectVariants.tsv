@@ -89,10 +89,10 @@ Edge top left	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightDa
 Edge top right	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Edge%20top%20right/cave.png	bg	#ffffff	0	1	1	ShadedSprite		Edge top right/cave				
 FG near top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/FG%20near%20top/cave.png	fg	#ffffff	-2	150	1			FG near top/cave				
 FG top	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/FG%20top/cave.png	fg	#ffffff	-0.5	16	1			FG top/cave				
-Fog before	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Fog%20before/cave.png	far bg	#ffffff	-0.5	16	6			Fog before/cave				
-Fog middle	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Fog%20middle/cave.png	far bg	#ffffff	3	-150	6			Fog middle/cave				
-Fog behind	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Fog%20behind/cave.png	far bg	#ffffff	1	-45	6			Fog behind/cave				
-Fog far behind	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Fog%20far%20behind/cave.png	far bg	#ffffff	3	-150	6			Fog far behind/cave				
+Fog before	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Fog%20before/cave.png	far bg	#ffffff	-0.5	16	3			Fog before/cave				
+Fog middle	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Fog%20middle/cave.png	far bg	#ffffff	3	-150	3			Fog middle/cave				
+Fog behind	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Fog%20behind/cave.png	far bg	#ffffff	1	-45	3			Fog behind/cave				
+Fog far behind	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Fog%20far%20behind/cave.png	far bg	#ffffff	3	-150	3			Fog far behind/cave				
 Light 1	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Light%201/cave.png	far bg	#ffffff	3	-150	1			Light 1/cave				
 Light 3	cave	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Light%203/cave.png	far bg	#ffffff	3	-150	1			Light 3/cave				
 Unique 1	nbentrance	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedDecoImages/Unique%201/nbentrance.png	bg	#ffffff	-0.15	-15	1			Unique 1/nbentrance				
