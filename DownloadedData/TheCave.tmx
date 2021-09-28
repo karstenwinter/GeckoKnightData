@@ -1082,7 +1082,7 @@
     <object name="WesternCave.SectionWithFTree" id="50" x="19560" y="34080" width="5040" height="2520" />
     <object name="WesternCave.SectionWithBottle" id="51" x="19560" y="36600" width="5040" height="2520" />
     <object name="WesternCave.5" id="52" x="24600" y="39120" width="5040" height="2520" />
-    <object name="WesternCave.TvDogRoom" id="53" x="19560" y="39120" width="5040" height="2520" />
+    <object name="WesternCave.SectiomWithTvDogRoom" id="53" x="19560" y="39120" width="5040" height="2520" />
     <object name="Hollow.SectionWithCottage" id="54" x="19560" y="41640" width="5040" height="2520" />
     <object name="Hollow.SectionWithBottle" id="55" x="24600" y="41640" width="5040" height="2520" />
     <object name="Hollow.SectionWithHKFungus" id="56" x="19560" y="44160" width="5040" height="2520" />
