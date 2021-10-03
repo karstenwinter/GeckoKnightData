@@ -3,7 +3,7 @@ NeedleRoom	Upgrade 1	Needle	https://raw.githubusercontent.com/karstenwinter/Geck
 HealingRoom	Upgrade 1	Heal	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/Heal.png		1					
 DashRoom	Upgrade 1	Dash	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/Dash.png							Dash: 3 wide
 Dash2Room	Upgrade 1	SuperDash	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/SuperDash.png							
-MagicMissileRoom	Upgrade 1	MagicMissile								
+MagicMissileRoom	Upgrade 1	MagicMissile	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedObjectImages/MagicMissile.png							
 MadSpiderRoom	Boss 1	MadSpider			9	2		AnimatedObject.imgWidth: 4, AnimatedObject.speed: 7		
 LizardTwinRoom	Boss 1	LizardTwin			13	1		EnemyController.tone: #483F00		
 TwistedSnakeRoom	Boss 1	TwistedSnake			24	1		AnimatedObject.imgWidth: 4		
