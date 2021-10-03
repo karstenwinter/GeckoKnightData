@@ -31,8 +31,8 @@ Hollow	climb up	4
 Hollow	climb down	4				
 Hollow	climb	3				
 Hollow	stop	3				
-Bug	idle	4	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/Bug.png		
-Bug	run	4				
+Bug	idle	8	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/Bug.png		
+Bug	run	8				
 Bug	dead	1				
 Bug	particle	1				
 Bee	idle	3	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/Bee.png		
