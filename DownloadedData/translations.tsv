@@ -1,4 +1,4 @@
-key	helper (unused)	EN	DE	ES	RU	JA	CN	=GOOGLETRANSLATE($B3;"EN";G1)	
+key	helper (unused)	EN	DE	ES	RU	JA	zh-CN	GOOGLETRANSLATE($C201;"EN";D$1)	
 #Input									
 Keyboard		Keyboard	Tastatur	Teclado	Клавиатура	キーボード	键盘使用		
 DualshockPC		Dualshock Gamepad	Dualshock Gamepad	Dualshock Gamepad	Dualshock Gamepad	デュアルショックPC	电脑系统		
@@ -48,6 +48,8 @@ Achievements		Achievements	Erfolge	Logros	Достижения	業績	游戏成�
 BinaryVersion		Binary version available:	Binäre Version verfügbar:	Versión binaria disponible:	Двоичная версия доступна:	利用可能なバイナリバージョン：	当前可用的游戏版本：		
 BinaryVersionUpToDate		Binary version is up to date	Die binäre Version ist auf dem neuesten Stand	La versión binaria está actualizada.	Двоичная версия актуальна	バイナリバージョンは最新のものです	当前游戏版本是最新的		
 BinaryVersionAvailable		New binary version available: {0}\nDo you want to download it?\nThis opens your browser with\n{1}	Neue Binär-Version verfügbar: {0}\nJetzt herunterladen?\nDies öffnet den Browser mit\n{1}	Nueva versión binaria disponible: {0}\n¿Quieres descargarlo?\nAbre tu navegador con\n{1}	Доступна новая бинарная версия: {0} \n Вы хотите загрузить его? \n открывает ваш браузер с \n {1}	利用可能な新しいバイナリバージョン：{0} \nあなたはそれをダウンロードしたいですか？\n\n {1}であなたのブラウザを開きます	新的游戏版本可用：您要下载吗？{0}\n这将打开您的浏览器\n{1}		
+SymbolOf		{0} is a symbol of {1}, literal translation being {2}	{0} ist ein Symbol für {1}, wörtlich übersetzt {2}	TODO {0} is a symbol of {1}, literal translation being {2}	TODO {0} is a symbol of {1}, literal translation being {2}	TODO {0} is a symbol of {1}, literal translation being {2}	TODO {0} is a symbol of {1}, literal translation being {2}		
+Incomplete		Word incomplete	Unvollständiges Runenwort	TODO Word incomplete	TODO Word incomplete	TODO Word incomplete	TODO Word incomplete		
 #Team									
 CreditLines		A Game by Karsten Winter \n  Sound Design: Christoph Schröder \n  Artworks: Karsten Winter and Adrian "MouseDefect" Acostantinesei \n Translations by Enrique Dorta Pérez, RT1_JMJS(极悦韵衡) and others \n Rune shapes from runesecrets.com \n Alpha Music: Kevin MacLeod	Ein Spiel von Karsten Winter \n Sound Design: Christoph Schröder \n Artworks: Karsten Winter, Adrian "MouseDefect" Acostantinesei \n Übersetzungen von Enrique Dorta Pérez, RT1_JMJS(极悦韵衡) und anderen \n Runes: runesecrets.com \n Alpha Music: Kevin MacLeod	Un juego de Karsten Winter \n Diseño de sonido: Christoph Schröder \n Obras de arte: Karsten Winter, Adrian "MouseDefect" Acostantinesei\n Traducciones de Enrique Dorta Pérez, RT1_JMJS(极悦韵衡) y otros \n Runes: runeshapes.com \n Alpha Music: Kevin MacLeod	Игра Karsten Winter \n \n Sound Design: Christoph Schröder \n \n Artworks: Karsten Winter, Adrian "MouseDefect" Acostantinesei aka TheBrokenMouse \n Переводы Anrique Dorta Pérez, RT1_JMJS(极悦韵衡) \n и другие \n Alpha Music: Kevin MacLeod	Karsten Winter \n \n Sound Design：ChristophSchröder\n \n artworks：Karsten Winter, Adrian "MouseDefect" Acostantinesei \n \n翻訳by Enrique DortaPérez, RT1_JMJS(极悦韵衡)\nなど \n\n Runes: runeshapes.com \n Alpha Music: Kevin MacLeod	游戏作者：Karsten Winter(卡斯滕冬天)\n\n音效设计：Christoph Schröder(克里斯托弗·施罗德)\n\n视觉设计：Karsten Winter (卡斯滕冬天), Adrian "MouseDefect" Acostantinesei\n\nEnrique DortaPérez, RT1_JMJS(极悦韵衡)\nなど \n\n Runes: runeshapes.com \n Alpha Music: Kevin MacLeod		
 SyncedServer		Found Server, found entries	Server gefunden, Einträge	Servidor encontrado, entradas	Найденный сервер, найден записи	サーバー、エントリが見つかりました	找到服务器，找到条目		
@@ -69,23 +71,23 @@ InputScheme		Gamepad\t\tControl\t\tKeyboard\n\tX/A\t\t\t\t\tJump\t\t\tSpace\n\t[
 CampRest		Rest	Ausruhen	Descanso	Остальные	アウスルエン	休息		
 #Areas							上洞		
 UpperCave		Upper Cave	Obere Höhle	Cueva superior	Верхняя пещера	上洞窟	上洞		
-NorthernCave		Northern Cave	Nördliche Höhle	Cueva del Norte	Северная пещера	洞窟	北洞		
 WesternCave		Western Cave	Westliche Höhle	Cueva occidental	Западная пещера	墓地	西洞		
-SouthernCave2		Southern Cave	Südhöhle	Cueva del sur	Южная пещера	南洞窟	南洞		
+NorthernCave		Northern Cave	Nördliche Höhle	Cueva del Norte	Северная пещера	洞窟	北洞		
+SouthernCave		Southern Cave	Südhöhle	Cueva del sur	Южная пещера	南洞窟	南洞		
 CrystalJunction		Crystal Junction	Kristallkreuz	Cruz de cristal	Crystal Cross.	クリスタルクロス	水晶交界处		
 Pit		Pit	Grube	Fosa	Яма	ピット	坑		
-UpperCave		Upper Cave	Obere Höhle	Cueva superior	Верхняя пещера	上洞窟	上洞		
+WoodBox		Sewing box	Nähkästchen	Caja de coser	Швейная машинка	裁縫箱	针线盒		
 NeedleBox		Sewing box	Nähkästchen	Caja de coser	Швейная машинка	裁縫箱	针线盒		
 LowerCave		Lower Cave	Niedrigere Höhle	Cueva inferior	Нижняя пещера	下洞窟	下洞		
 WesternCave		Western Cave	Westliche Höhle	Cueva occidental	Западная пещера	墓地	西洞		
 Clock		Clock	Uhr	Reloj	Часы	時計	时钟		
-Eastern Cave		Clock	Uhr	Cueva Este	Часы	時計	东洞		
+EasternCave		Eastern Cave	Östliche Höhle	Cueva Oeste	TODO Eastern Cave	TODO Eastern Cave	TODO Eastern Cave		
 #Lore									
 EggCracked		The egg cracked	Das Ei brach auf	El huevo se rompió	Яйцо треснуло	卵が割れた	蛋裂开了		
 GeckoHatched		And a gecko hatched	Und ein Gecko schlüpfte	Y un gecko nació	И геккон вылупился	そしてヤモリは孵化しました	一只小壁虎孵化了		
 LookedAround		he looked around	er sah sich um	miró a su alrededor	Он оглянулся	彼は周りを見回しました	它看了看周围		
 WasAlone		but he was alone	aber er war alleine	Pero él estaba solo	Но он был один	しかし彼は一人でした	但它是一只壁虎		
-JumpAndPogo		(Jump and slash down to pogo off spikes)	(Springe und schlage nach unten, um Stacheln zu überwinden)	(Saltar y cortar y rebotar de los peligros)	(Прыгай и ссушайте вниз, чтобы пого выключить шипы)	（スパイクの飛び出しとスラッシュ	（跳跃并斜向移动以摆脱尖刺）		
+JumpAndPogo		(Jump and slash down to pogo off spikes)	(Springe und schlage nach unten, um Stacheln zu überwinden)	(Saltar y cortar y rebotar de los peligros)	(Прыгай и ссушайте вниз, чтобы пого выключить шипы)	（スパイクの飛び出しとスラッシュ）	（跳跃并斜向移动以摆脱尖刺）		
 FeelsCold		It feels cold.	Es fühlt sich kalt an.	Se siente frío.	Это холодно.	寒さを感じます。			
 WhereIsTheWarmth		Where is the warmth from before?	Wo ist die Wärme von vorhin?	¿De dónde es el calor de antes?	Где тепло от раньше?	前から暖かさはどこにありますか？			
 WhereAreTheSounds		Where are the familiar sounds?	Wo sind die vertrauten Geräusche?	¿Dónde están los sonidos familiares?	Где знакомые звуки?	おなじみの音はどこにありますか？			
@@ -141,30 +143,6 @@ MacGill		Blubb...€*Ah, you also have gills?	Blubb ... € * Ah, Sie haben auch
 RootHermit		Root Hermit	Wurzeleinsiedler	Ermitaño de la raíz	Root eermit.	h h	根隐士		
 SandEater		Sand Eater	Sandesser	Comedor de arena	Песок едок	砂を食べる	食沙者		
 RootSage		Root Sage	Wurzel-Salbei	Sabio de raíz	Корневой мудрец	ルートセージ	根鼠尾草		
-#Runes									
-DropAnAdditionalShell		drop an additional shell when collecting one	Lassen Sie eine zusätzliche Muschel fallen, wenn Sie eine sammeln	Deja caer una cáscara adicional al recoger uno	Снимите дополнительную оболочку при сборе одного	1を集めるときに追加のシェルをドロップします			
-WhenYouKill2		When you kill 2 or more enemies,	Wenn Sie eine Gruppe von Feinden töten,	Cuando matas a 2 o más enemigos,	Когда вы убиваете 2 или более врагов,	2人以上の敵を殺すとき、			
-DealDamageEnemy		deal 1 damage to an enemy 	Füge einem Feind Schaden zu	lidiar 1 daño a un enemigo	иметь дело 1 ущерб врагу	敵に1ダメージを与えます			
-WhenCastSpell		When you cast a spell, 	Wenn Sie einen Zauber wirken,	Cuando lanzas un hechizo,	Когда вы бросаете заклинание,	あなたが呪文を唱えるとき、			
-WhenYouEnter		When you enter a new area, 	Wenn Sie einen neuen Bereich eingeben,	Cuando entras en un área nueva,	Когда вы входите в новую область,	新しい地域を入力すると、			
-SecretsMarked		Secrets near you are marked	Geheimnisse in der Nähe von Ihnen sind markiert	Secretos cerca de ti están marcados	Секреты рядом с вами отмечены	あなたの近くの秘密はマークされています			
-KillFasterTakeMoreDamage		Kill normal enemies with 2 hits, as long as you have not taken damage, damage taken x 3	Töte normale Feinde mit 2 Treffern, solange du keinen Schaden genommen hast, nimm dreifachen Schaden	Mata a los enemigos normales con 2 hits, siempre y cuando no haya tomado daño, daños tomados x 3	Убейте нормальных врагов с 2 хитами, если вы не нанесли урона, повреждение, взятое х 3	ダメージを受けていない限り、2ヒットで通常の敵を倒すと、X 3の損傷			
-GainMana		gain 1 mana	1 Mana gewinnen	ganar 1 maná	Получить 1 ману	1マナを得る			
-WhenGetHit		When you get hit by an enemy, 	Wenn Sie von einem Feind getroffen werden,	Cuando te golpean un enemigo,	Когда вы попадаете противником,	あなたが敵にぶつかったとき、			
-WhenGetHitMagic		When you get hit by magic, 	Wenn Sie von Magie getroffen werden,	Cuando te golpean la magia,	Когда вы попадаете на магию,	魔法にぶつかったとき、			
-SecretsEmitSound		Secrets emit a sound	Geheimnisse emittieren einen Ton	Los secretos emiten un sonido	Секреты испускают звук	秘密は音を放出します			
-ManaRegenerates		Mana regenerates continually only	Mana regeneriert über Zeit	Maná se regenera continuamente solo	Мана регенерирует постоянно только	マナは絶えず再生されます			
-WhenKillEnemy		When you kill an enemy, 	Wenn Sie einen Feind töten,	Cuando matas a un enemigo,	Когда вы убиваете врага,	あなたが敵を殺すとき、			
-DodgeAttacksWithAttack		Dodge attacks if observing and attacking at the same time	Dodge-Angriffe, wenn Sie gleichzeitig beobachten und angreifen	Dodge ataques si observa y atacando al mismo tiempo.	Уклонение от атак при наблюдении и нападениями одновременно	観察と攻撃が同時に攻撃された場合の攻撃を攻撃する			
-WhenFlawlessVictory		When you flawlessly win a fight, 	Wenn Sie einwandfrei einen Kampf gewinnen,	Cuando ganas sin esfuerzo una pelea,	Когда вы безупречно выиграете бой,	あなたが完璧に戦いを勝ち取るとき、			
-DealDamage		deal .5 damage	Verursache Schaden	trato .5 daños	иметь дело. 5 урона	契約.5被害			
-HealDamage		you heal damage	Heile Schaden	Tu cura el daño	Вы исцеляете повреждение	あなたはダメージを癒します			
-SporesHeal		Spores cause you to heal slowly	Sporen lassen Sie sich langsam heilen	Las esporas hacen que se cure lentamente	Споры, потому что вы лечите медленно	胞子はあなたにゆっくり癒します			
-ReadLetters		You can read letters	Sie können Buchstaben lesen	Puedes leer cartas	Вы можете читать буквы	あなたは文字を読むことができます			
-NeedleHitsDestroyProjectiles		Needle hits destroy Projectiles	Nadel-Treffer zerstören Projektile	Los éxitos de la aguja destruyen los proyectiles	Игольчатые хиты уничтожают снаряды	ニードルヒットは発射体を破壊します			
-EmitBurst		Emit a small burst	Erzeuge eine kleine Explosion	Emitir una pequeña ráfaga	Излучать небольшой взрыв	小さなバーストを発する			
-IlluminateSurroundings		Illuminates your surroundings	Beleuchtet Ihre Umgebung.	Ilumina su entorno	Освещает ваше окружение	あなたの周囲を点灯させる			
-EmitTemporalLight		emit a temporal light	erzeuge ein temporäres Licht	emitir una luz temporal	излучает временный свет	時間的な光を放出します			
 #Riddles									
 AboveCamp		Avobechetamp Tiesalreasure	Üderherdöhle Schiegteinlatz	---	---	---			
 AboveCampSolution		Above the camp lies a treasure	Über der Höhle liegt ein Schatz	---	---	---			
@@ -185,3 +163,83 @@ NPCClock		Hey traveller, I am really curious about this mechanism here. It seems
 NPCTelevision		Ah, traveller, what may have lead you here. It's not safe here, the cave's walls and ceilings are not as stable as they used to be. Better not linger around.	Ah, traveller, what may have lead you here. It's not safe here, the cave's walls and ceilings are not as stable as they used to be. Better not linger around.	Ah, traveller, what may have lead you here. It's not safe here, the cave's walls and ceilings are not as stable as they used to be. Better not linger around.	Ah, traveller, what may have lead you here. It's not safe here, the cave's walls and ceilings are not as stable as they used to be. Better not linger around.	Ah, traveller, what may have lead you here. It's not safe here, the cave's walls and ceilings are not as stable as they used to be. Better not linger around.			
 NPCMAEntrance		Can you smell it? The Mossy Alcoves lie ahead, it seems fresh and inviting, but watch out for the thorns, I've given up traversing it.	Can you smell it? The Mossy Alcoves lie ahead, it seems fresh and inviting, but watch out for the thorns, I've given up traversing it.	Can you smell it? The Mossy Alcoves lie ahead, it seems fresh and inviting, but watch out for the thorns, I've given up traversing it.	Can you smell it? The Mossy Alcoves lie ahead, it seems fresh and inviting, but watch out for the thorns, I've given up traversing it.	Can you smell it? The Mossy Alcoves lie ahead, it seems fresh and inviting, but watch out for the thorns, I've given up traversing it.			
 NPCFEntrance		I've seen life down below, tried living there myself but the tribes didn't allow my presence near my favourite part, the Crystal Junction. An odd intolerant cult.	I've seen life down below, tried living there myself but the tribes didn't allow my presence near my favourite part, the Crystal Junction. An odd intolerant cult.	I've seen life down below, tried living there myself but the tribes didn't allow my presence near my favourite part, the Crystal Junction. An odd intolerant cult.	I've seen life down below, tried living there myself but the tribes didn't allow my presence near my favourite part, the Crystal Junction. An odd intolerant cult.	I've seen life down below, tried living there myself but the tribes didn't allow my presence near my favourite part, the Crystal Junction. An odd intolerant cult.			
+#RunesScreen									
+Trigger		Trigger	Trigger	Trigger	Trigger	Trigger	Trigger		
+Effect		Effect	Effect	Effect	Effect	Effect	Effect		
+Static		Static	Static	Static	Static	Static	Static		
+Runes		Runes	Runes	Runes	Runes	Runes	Runes		
+SelectForDetails		Select a rune for details	Select a rune for details	Select a rune for details	Select a rune for details	Select a rune for details	Select a rune for details		
+#Runes									
+name		name	Name	nombre	имя	名前	姓名		
+wealth		wealth	Reichtum	poder	богатство	富	财富		
+formation		formation	Formation	formación	формирование	形成	形成		
+conflict		conflict	Konflikt	conflicto	конфликт	対立	冲突		
+inspiration		inspiration	Inspiration	inspiración	вдохновение	インスピレーション	灵感		
+journey		journey	Reise	viaje	путешествие	旅	旅行		
+knowledge		knowledge	Wissen	conocimiento	знания	知識	知识		
+exchange		exchange	Austausch	intercambio	обмен	両替	交换		
+harmony		harmony	Harmonie	armonía	гармония	調和	和谐		
+crisis		crisis	Krise	crisis	кризис	危機	危机		
+necessity		necessity	Notwendigkeit	necesidad	необходимость	必要性	必要性		
+self		self	selbst	uno mismo	себя	自己	自己		
+patience		patience	Geduld	paciencia	терпение	忍耐	耐心		
+death		death	Tod	muerte	смерть	死	死亡		
+fate		fate	Schicksal	destino	судьба	運命	命运		
+protection		protection	Schutz	proteccion	защита	保護	保护		
+victory		victory	Sieg	victoria	победа	勝利	胜利		
+justice		justice	Justiz	justicia	справедливость	正義感	正义		
+healing		healing	Heilung	curación	выздоровление	ヒーリング	康复		
+partnership		partnership	Partnerschaft	camaradería	партнерство	パートナーシップ	合伙		
+humanity		humanity	Menschheit	humanidad	человечество	人類	人性		
+unity		unity	Einheit	unidad	единство	団結	统一		
+potential		potential	Potenzial	potencial	потенциал	潜在的	潜在的		
+enlightenment		enlightenment	Aufklärung	iluminación	просвещение	啓発	启示		
+inheritance		inheritance	Nachlass	herencia	наследование	継承	遗产		
+kattle		kattle	Rind	katla	рогатый	カル	kattle.		
+aurochs		aurochs	Auerochse	uro	Аурохи	Aurochs	Auroch.		
+giants		giants	Riese	gigantes	гиганты	巨人	巨人		
+god		god	Gott	Dios	Бог	神	上帝		
+ride		ride	Fahrt	paseo	поездка	乗る	骑		
+torch		torch	Fackel	antorcha	факел	松明	火炬		
+gift		gift	Geschenk	regalo	подарок	贈り物	礼物		
+joy		joy	Freude	alegría	радость	喜び	喜悦		
+hail		hail	Heil	Viva	град	雹	冰雹		
+need		need	Bedarf	necesitar	необходимость	必要	需要		
+ice		ice	Eis	hielo	лед	氷	冰		
+year		year	Jahr	año	год	年	年		
+yew		yew	Eibe	tejo	тис	y	yew.		
+(unknown)		(unknown)	(Unbekannt)	(desconocido)	(неизвестный)	（わからない）	（未知）		
+elk		elk	Elch	alce	лосья	el	麋鹿		
+sun		sun	Sonne	sol	солнце	太陽	太阳		
+tyr		tyr	tyr	Tyr	тир	ティレ	TYR.		
+birch		birch	Birke	abedul	бирза	バーチ	桦木		
+horse		horse	Pferd	caballo	лошадь	うま	马		
+mankind		mankind	Menschheit	humanidad	человечество	人類	人类		
+lake		lake	See	lago	озеро	湖	湖		
+seed		seed	Samen	semilla	семя	シード	种子		
+day		day	Tag	día	день	日	日		
+homeland		homeland	Heimat	patria	родная страна	故郷	家园		
+#Runes									
+DropAnAdditionalShell		drop an additional shell when collecting one	Lassen Sie eine zusätzliche Muschel fallen, wenn Sie eine sammeln	Deja caer una cáscara adicional al recoger uno	Снимите дополнительную оболочку при сборе одного	1を集めるときに追加のシェルをドロップします	收集一个额外的壳牌		
+WhenYouKill2		When you kill 2 or more enemies,	Wenn Sie eine Gruppe von Feinden töten,	Cuando matas a 2 o más enemigos,	Когда вы убиваете 2 или более врагов,	2人以上の敵を殺すとき、	当你杀死2个或更多敌人时，		
+DealDamageEnemy		deal 1 damage to an enemy 	Füge einem Feind Schaden zu	lidiar 1 daño a un enemigo	иметь дело 1 ущерб врагу	敵に1ダメージを与えます	对敌人造成1伤害		
+WhenCastSpell		When you cast a spell, 	Wenn Sie einen Zauber wirken,	Cuando lanzas un hechizo,	Когда вы бросаете заклинание,	あなたが呪文を唱えるとき、	当你施放咒语时，		
+WhenYouEnter		When you enter a new area, 	Wenn Sie einen neuen Bereich eingeben,	Cuando entras en un área nueva,	Когда вы входите в новую область,	新しい地域を入力すると、	输入新区域时，		
+SecretsMarked		Secrets near you are marked	Geheimnisse in der Nähe von Ihnen sind markiert	Secretos cerca de ti están marcados	Секреты рядом с вами отмечены	あなたの近くの秘密はマークされています	您附近的秘密标记为		
+KillFasterTakeMoreDamage		Kill normal enemies with 2 hits, as long as you have not taken damage, damage taken x 3	Töte normale Feinde mit 2 Treffern, solange du keinen Schaden genommen hast, nimm dreifachen Schaden	Mata a los enemigos normales con 2 hits, siempre y cuando no haya tomado daño, daños tomados x 3	Убейте нормальных врагов с 2 хитами, если вы не нанесли урона, повреждение, взятое х 3	ダメージを受けていない限り、2ヒットで通常の敵を倒すと、X 3の損傷	用2个点击杀死正常敌人，只要你没有受到伤害，伤害X 3		
+GainMana		gain 1 mana	1 Mana gewinnen	ganar 1 maná	Получить 1 ману	1マナを得る	获得1法术		
+WhenGetHit		When you get hit by an enemy, 	Wenn Sie von einem Feind getroffen werden,	Cuando te golpean un enemigo,	Когда вы попадаете противником,	あなたが敵にぶつかったとき、	当你被敌人击中时，		
+WhenGetHitMagic		When you get hit by magic, 	Wenn Sie von Magie getroffen werden,	Cuando te golpean la magia,	Когда вы попадаете на магию,	魔法にぶつかったとき、	当你被魔法击中时，		
+SecretsEmitSound		Secrets emit a sound	Geheimnisse emittieren einen Ton	Los secretos emiten un sonido	Секреты испускают звук	秘密は音を放出します	秘密发出声音		
+ManaRegenerates		Mana regenerates continually only	Mana regeneriert über Zeit	Maná se regenera continuamente solo	Мана регенерирует постоянно только	マナは絶えず再生されます	仅限法力再生		
+WhenKillEnemy		When you kill an enemy, 	Wenn Sie einen Feind töten,	Cuando matas a un enemigo,	Когда вы убиваете врага,	あなたが敵を殺すとき、	当你杀死敌人时，		
+DodgeAttacksWithAttack		Dodge attacks if observing and attacking at the same time	Dodge-Angriffe, wenn Sie gleichzeitig beobachten und angreifen	Dodge ataques si observa y atacando al mismo tiempo.	Уклонение от атак при наблюдении и нападениями одновременно	観察と攻撃が同時に攻撃された場合の攻撃を攻撃する	如果在同一时间观察和攻击，躲闪攻击		
+WhenFlawlessVictory		When you flawlessly win a fight, 	Wenn Sie einwandfrei einen Kampf gewinnen,	Cuando ganas sin esfuerzo una pelea,	Когда вы безупречно выиграете бой,	あなたが完璧に戦いを勝ち取るとき、	当你完美地赢得战斗时，		
+DealDamage		deal .5 damage	Verursache Schaden	trato .5 daños	иметь дело. 5 урона	契約.5被害	交易.5伤害		
+HealDamage		you heal damage	Heile Schaden	Tu cura el daño	Вы исцеляете повреждение	あなたはダメージを癒します	你治愈了伤害		
+SporesHeal		Spores cause you to heal slowly	Sporen lassen Sie sich langsam heilen	Las esporas hacen que se cure lentamente	Споры, потому что вы лечите медленно	胞子はあなたにゆっくり癒します	孢子会导致你慢慢愈合		
+ReadLetters		You can read letters	Sie können Buchstaben lesen	Puedes leer cartas	Вы можете читать буквы	あなたは文字を読むことができます	你可以读字母		
+NeedleHitsDestroyProjectiles		Needle hits destroy Projectiles	Nadel-Treffer zerstören Projektile	Los éxitos de la aguja destruyen los proyectiles	Игольчатые хиты уничтожают снаряды	ニードルヒットは発射体を破壊します	针头击中摧毁射弹		
+EmitBurst		Emit a small burst	Erzeuge eine kleine Explosion	Emitir una pequeña ráfaga	Излучать небольшой взрыв	小さなバーストを発する	发出一个小爆裂		
+IlluminateSurroundings		Illuminates your surroundings	Beleuchtet Ihre Umgebung.	Ilumina su entorno	Освещает ваше окружение	あなたの周囲を点灯させる	照亮你的周围环境		
+EmitTemporalLight		emit a temporal light	erzeuge ein temporäres Licht	emitir una luz temporal	излучает временный свет	時間的な光を放出します	发出颞灯		
