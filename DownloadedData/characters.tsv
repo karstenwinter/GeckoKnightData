@@ -15,6 +15,22 @@ Gecko	climb up	4
 Gecko	climb down	4				
 Gecko	climb	3				
 Gecko	stop	3				
+GeckoP2	idle	3	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/GeckoP2.png		
+GeckoP2	run	8				
+GeckoP2	jump	8				
+GeckoP2	land	3				
+GeckoP2	climb to stand	6				
+GeckoP2	hit	5				
+GeckoP2	hit up	5				
+GeckoP2	hit down	5				
+GeckoP2	turn	5				
+GeckoP2	climb to jump	3				
+GeckoP2	dash	4				
+GeckoP2	air	3				
+GeckoP2	climb up	4				
+GeckoP2	climb down	4				
+GeckoP2	climb	3				
+GeckoP2	stop	3				
 Hollow	idle	3	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/Hollow.png		
 Hollow	run	8				
 Hollow	jump	8				

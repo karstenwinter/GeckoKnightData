@@ -50,6 +50,7 @@ BinaryVersionUpToDate		Binary version is up to date	Die binäre Version ist auf 
 BinaryVersionAvailable		New binary version available: {0}\nDo you want to download it?\nThis opens your browser with\n{1}	Neue Binär-Version verfügbar: {0}\nJetzt herunterladen?\nDies öffnet den Browser mit\n{1}	Nueva versión binaria disponible: {0}\n¿Quieres descargarlo?\nAbre tu navegador con\n{1}	Доступна новая бинарная версия: {0} \n Вы хотите загрузить его? \n открывает ваш браузер с \n {1}	利用可能な新しいバイナリバージョン：{0} \nあなたはそれをダウンロードしたいですか？\n\n {1}であなたのブラウザを開きます	新的游戏版本可用：您要下载吗？{0}\n这将打开您的浏览器\n{1}		
 SymbolOf		{0} is a symbol of {1}, literal translation being {2}	{0} ist ein Symbol für {1}, wörtlich übersetzt {2}	TODO {0} is a symbol of {1}, literal translation being {2}	TODO {0} is a symbol of {1}, literal translation being {2}	TODO {0} is a symbol of {1}, literal translation being {2}	TODO {0} is a symbol of {1}, literal translation being {2}		
 Incomplete		Word incomplete	Unvollständiges Runenwort	TODO Word incomplete	TODO Word incomplete	TODO Word incomplete	TODO Word incomplete		
+IntroText		I tell of Giants from times forgotten.\n Those who fed me in former days:\n Nine worlds I can reckon, nine roots of the Tree.\n The wonderful Ash, way under the ground\n\n- Voluspa (Prophecy of the seeress)	Von Riesen erzähle ich aus vergessenen Zeiten.\nDie mich früher nährten:\nNeun Welten waren es, neun Wurzeln des Baumes.\nDie wundervolle Asche, weit unter der Erde\n\n- Voluspa (Prophezeiung der Seherin)	I tell of Giants from times forgotten.\n Those who fed me in former days:\n Nine worlds I can reckon, nine roots of the Tree.\n The wonderful Ash, way under the ground\n\n- Voluspa (Prophecy of the seeress)	I tell of Giants from times forgotten.\n Those who fed me in former days:\n Nine worlds I can reckon, nine roots of the Tree.\n The wonderful Ash, way under the ground\n\n- Voluspa (Prophecy of the seeress)	I tell of Giants from times forgotten.\n Those who fed me in former days:\n Nine worlds I can reckon, nine roots of the Tree.\n The wonderful Ash, way under the ground\n\n- Voluspa (Prophecy of the seeress)	I tell of Giants from times forgotten.\n Those who fed me in former days:\n Nine worlds I can reckon, nine roots of the Tree.\n The wonderful Ash, way under the ground\n\n- Voluspa (Prophecy of the seeress)		
 #Team									
 CreditLines		A Game by Karsten Winter \n  Sound Design: Christoph Schröder \n  Artworks: Karsten Winter and Adrian "MouseDefect" Acostantinesei \n Translations by Enrique Dorta Pérez, RT1_JMJS(极悦韵衡) and others \n Rune shapes from runesecrets.com \n Alpha Music: Kevin MacLeod	Ein Spiel von Karsten Winter \n Sound Design: Christoph Schröder \n Artworks: Karsten Winter, Adrian "MouseDefect" Acostantinesei \n Übersetzungen von Enrique Dorta Pérez, RT1_JMJS(极悦韵衡) und anderen \n Runes: runesecrets.com \n Alpha Music: Kevin MacLeod	Un juego de Karsten Winter \n Diseño de sonido: Christoph Schröder \n Obras de arte: Karsten Winter, Adrian "MouseDefect" Acostantinesei\n Traducciones de Enrique Dorta Pérez, RT1_JMJS(极悦韵衡) y otros \n Runes: runeshapes.com \n Alpha Music: Kevin MacLeod	Игра Karsten Winter \n \n Sound Design: Christoph Schröder \n \n Artworks: Karsten Winter, Adrian "MouseDefect" Acostantinesei aka TheBrokenMouse \n Переводы Anrique Dorta Pérez, RT1_JMJS(极悦韵衡) \n и другие \n Alpha Music: Kevin MacLeod	Karsten Winter \n \n Sound Design：ChristophSchröder\n \n artworks：Karsten Winter, Adrian "MouseDefect" Acostantinesei \n \n翻訳by Enrique DortaPérez, RT1_JMJS(极悦韵衡)\nなど \n\n Runes: runeshapes.com \n Alpha Music: Kevin MacLeod	游戏作者：Karsten Winter(卡斯滕冬天)\n\n音效设计：Christoph Schröder(克里斯托弗·施罗德)\n\n视觉设计：Karsten Winter (卡斯滕冬天), Adrian "MouseDefect" Acostantinesei\n\nEnrique DortaPérez, RT1_JMJS(极悦韵衡)\nなど \n\n Runes: runeshapes.com \n Alpha Music: Kevin MacLeod		
 SyncedServer		Found Server, found entries	Server gefunden, Einträge	Servidor encontrado, entradas	Найденный сервер, найден записи	サーバー、エントリが見つかりました	找到服务器，找到条目		
@@ -164,11 +165,12 @@ NPCTelevision		Ah, traveller, what may have lead you here. It's not safe here, t
 NPCMAEntrance		Can you smell it? The Mossy Alcoves lie ahead, it seems fresh and inviting, but watch out for the thorns, I've given up traversing it.	Can you smell it? The Mossy Alcoves lie ahead, it seems fresh and inviting, but watch out for the thorns, I've given up traversing it.	Can you smell it? The Mossy Alcoves lie ahead, it seems fresh and inviting, but watch out for the thorns, I've given up traversing it.	Can you smell it? The Mossy Alcoves lie ahead, it seems fresh and inviting, but watch out for the thorns, I've given up traversing it.	Can you smell it? The Mossy Alcoves lie ahead, it seems fresh and inviting, but watch out for the thorns, I've given up traversing it.			
 NPCFEntrance		I've seen life down below, tried living there myself but the tribes didn't allow my presence near my favourite part, the Crystal Junction. An odd intolerant cult.	I've seen life down below, tried living there myself but the tribes didn't allow my presence near my favourite part, the Crystal Junction. An odd intolerant cult.	I've seen life down below, tried living there myself but the tribes didn't allow my presence near my favourite part, the Crystal Junction. An odd intolerant cult.	I've seen life down below, tried living there myself but the tribes didn't allow my presence near my favourite part, the Crystal Junction. An odd intolerant cult.	I've seen life down below, tried living there myself but the tribes didn't allow my presence near my favourite part, the Crystal Junction. An odd intolerant cult.			
 #RunesScreen									
-Trigger		Trigger	Trigger	Trigger	Trigger	Trigger	Trigger		
-Effect		Effect	Effect	Effect	Effect	Effect	Effect		
-Static		Static	Static	Static	Static	Static	Static		
-Runes		Runes	Runes	Runes	Runes	Runes	Runes		
-SelectForDetails		Select a rune for details	Select a rune for details	Select a rune for details	Select a rune for details	Select a rune for details	Select a rune for details		
+Trigger		Trigger	Auslöser	Trigger	Trigger	Trigger	Trigger		
+Effect		Effect	Effekt	Effect	Effect	Effect	Effect		
+Static		Static	Statisch	Static	Static	Static	Static		
+Available		Available	Verfügbar	Available	Available	Available	Available		
+Runes		Runes	Runen	Runes	Runes	Runes	Runes		
+SelectForDetails		Select a rune for details	Wähle eine Rune für Details aus	Select a rune for details	Select a rune for details	Select a rune for details	Select a rune for details		
 #Runes									
 name		name	Name	nombre	имя	名前	姓名		
 wealth		wealth	Reichtum	poder	богатство	富	财富		
@@ -195,8 +197,8 @@ unity		unity	Einheit	unidad	единство	団結	统一
 potential		potential	Potenzial	potencial	потенциал	潜在的	潜在的		
 enlightenment		enlightenment	Aufklärung	iluminación	просвещение	啓発	启示		
 inheritance		inheritance	Nachlass	herencia	наследование	継承	遗产		
-kattle		kattle	Rind	katla	рогатый	カル	kattle.		
-aurochs		aurochs	Auerochse	uro	Аурохи	Aurochs	Auroch.		
+kattle		kattle	Rind	katla	рогатый	カル	牛		
+aurochs		aurochs	Auerochse	uro	Аурохи	オーロックス	野牛		
 giants		giants	Riese	gigantes	гиганты	巨人	巨人		
 god		god	Gott	Dios	Бог	神	上帝		
 ride		ride	Fahrt	paseo	поездка	乗る	骑		
@@ -207,9 +209,9 @@ hail		hail	Heil	Viva	град	雹	冰雹
 need		need	Bedarf	necesitar	необходимость	必要	需要		
 ice		ice	Eis	hielo	лед	氷	冰		
 year		year	Jahr	año	год	年	年		
-yew		yew	Eibe	tejo	тис	y	yew.		
+yew		yew	Eibe	tejo	тис	イチイ	紅豆杉		
 (unknown)		(unknown)	(Unbekannt)	(desconocido)	(неизвестный)	（わからない）	（未知）		
-elk		elk	Elch	alce	лосья	el	麋鹿		
+elk		elk	Elch	alce	лосья	エル			
 sun		sun	Sonne	sol	солнце	太陽	太阳		
 tyr		tyr	tyr	Tyr	тир	ティレ	TYR.		
 birch		birch	Birke	abedul	бирза	バーチ	桦木		
