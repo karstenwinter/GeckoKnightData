@@ -67,10 +67,10 @@ FrogSensei	idle	3	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnigh
 FrogSensei	action	1				
 TvDog	idle	3	240	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/TvDog.png		
 TvDog	action	1				
-MadSpider	idle	3	960	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/MadSpider.png		
-MadSpider	body	1				
-MadSpider	leg	1				
-MadSpider	dead	1				
+MadSpider	idle	4	960	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/MadSpider.png		
+MadSpider	body	4				
+MadSpider	leg	4				
+MadSpider	dead	4				
 Mantis	idle	3	480	https://raw.githubusercontent.com/karstenwinter/GeckoKnightData/main/DownloadedCharacters/Mantis.png		
 Mantis	sprint	3				
 Mantis	air	8				
