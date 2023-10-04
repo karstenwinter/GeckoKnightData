@@ -675,7 +675,6 @@
   <object id="275" gid="26" x="14848" y="5376" width="224" height="189"/>
   <object id="276" gid="29" x="15360" y="5504" width="360" height="360"/>
   <object id="277" gid="29" x="14848" y="4736" width="360" height="360"/>
-  <object id="278" gid="37" x="13696" y="5632" width="512" height="512"/>
  </objectgroup>
  <objectgroup id="12" name="ObjectsNear">
   <object id="213" gid="39" x="128" y="16384" width="512" height="128"/>
